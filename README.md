@@ -44,4 +44,4 @@
 | threshold            |                     | próg, poziom                          |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
-| workaround           |                     | objeście                              |
+| workaround           |                     | obejście                              |
