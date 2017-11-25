@@ -1,3 +1,12 @@
+Krótki słowniczek pojęć w języku angielskim z okolic programowania oraz ich polskich odpowiedników.
+Co prawda nikt z nas nie mówi _rusztowanie sieciowe oparte o wstrzykiwanie ziaren_.
+Ale już _customowy header na requeście_ można śmiało zastąpić _niestandardowym nagłówkiem żądania_.
+Po prostu czasem istnieje poprawne, polskie sformułownanie i nie ma powodu, żeby kaleczyć język.
+
+Ograniczamy się do pojęć z zakresu programowania.
+Bez ironii, bez korpomowy.
+Zachęcam do współudziału (ang. _contribution_).
+
 | Angielski            | Polskawy            | Polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
 | approve              | zapruwować          | zaakceptować                          |
