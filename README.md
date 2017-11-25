@@ -6,6 +6,7 @@ Po prostu czasem istnieje poprawne, polskie sformułownanie i nie ma powodu, że
 Ograniczamy się do pojęć z zakresu programowania.
 Bez ironii, bez korpomowy.
 Zachęcam do współudziału (ang. _contribution_).
+Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie tłumacząc na siłe.
 
 | Angielski            | Polskawy            | Polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
