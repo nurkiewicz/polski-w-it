@@ -33,7 +33,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | issue                | isiu                | problem                               |
 | job                  |                     | zadanie                               |
 | label                |                     | etykieta                              |
-| latency              |                     | opóźnienie                            |
+| latency              | latencja            | opóźnienie                            |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | mockup               |                     | makieta                               |
