@@ -34,7 +34,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | issue                | isiu                | problem                               |
 | job                  |                     | zadanie                               |
 | label                | labelka             | etykieta                              |
-| latency              | latencja            | opóźnienie                            |
+| latency              |                     | opóźnienie                            |
 | layout               | lejałt              | układ (np. elementów interfejsu)      |
 | lock                 | zalokować           | zablokować                            |
 | launch               | lancz               | uruchomić, wprowadzić na rynek        |
