@@ -18,7 +18,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | case                 | kejs                | przypadek                             |
 | confirm              | konfirmować         | potwierdzić                           |
 | content              |                     | zawartość, treść                      |
-| custom               |                     | specjalny, nietypowy, niestandardowy  |
+| custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
 | deploy               | zdiplojować         | wdrożyć                               |
 | edge case            |                     | przypadek brzegowy                    |
@@ -48,7 +48,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | rollback             |                     | wycofać, przywrócić                   |
 | schedule             | zaskedżulować       | zaplanować                            |
 | service              | serwis              | usługa                                |
-| support              |                     | wspierać                              |
+| support              | saportować          | wspierać                              |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
 | threshold            |                     | próg, poziom                          |
