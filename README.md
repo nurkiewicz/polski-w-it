@@ -13,6 +13,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | approve              | zapruwować          | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
+| build                | bild                | budowanie                             |
 | button               | baton               | przycisk                              |
 | cancel               | kanselować          | anulować                              |
 | case                 | kejs                | przypadek                             |
@@ -35,6 +36,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | label                |                     | etykieta                              |
 | latency              |                     | opóźnienie                            |
 | lock                 | zalokować           | zablokować                            |
+| launch               | lancz               | uruchomić, wprowadzić na rynek        |
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | mockup               |                     | makieta                               |
 | paging               | paginacja           | stronicowanie                         |
