@@ -32,7 +32,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | impact               |                     | wpływ                                 |
 | issue                | isiu                | problem                               |
 | job                  |                     | zadanie                               |
-| label                |                     | etykieta                              |
+| label                | labelka             | etykieta                              |
 | latency              |                     | opóźnienie                            |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
