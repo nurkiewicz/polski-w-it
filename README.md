@@ -35,10 +35,11 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | job                  |                     | zadanie                               |
 | label                | labelka             | etykieta                              |
 | latency              | latencja            | opóźnienie                            |
+| layout               | lejałt              | układ (np. elementów interfejsu)      |
 | lock                 | zalokować           | zablokować                            |
 | launch               | lancz               | uruchomić, wprowadzić na rynek        |
 | lunch                |                     | obiad, tyle że w Warszawie            |
-| mockup               |                     | makieta                               |
+| mockup               | mokap               | makieta                               |
 | paging               | paginacja           | stronicowanie                         |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
