@@ -8,7 +8,7 @@ Bez ironii, bez korpomowy.
 Zachęcam do współudziału (ang. _contribution_).
 Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie tłumacząc na siłę.
 
-| Angielski            | Polskawy            | Polski                                |
+| angielski            | polskawy            | polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
 | approve              | zapruwować          | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
