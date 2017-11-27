@@ -49,6 +49,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | prototype            | prototajp           | prototyp                              |
+| release              | rilis               | wydanie, wersja                       |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
 | response             |                     | odpowiedź                             |
