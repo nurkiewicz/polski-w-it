@@ -29,6 +29,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | fix                  | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
 | footer               |                     | stopka                                |
+| foreign key          | foren kij           | klucz obcy                            |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
 | issue                | isiu                | problem                               |
@@ -39,6 +40,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | lock                 | zalokować           | zablokować                            |
 | launch               | lancz               | uruchomić, wprowadzić na rynek        |
 | lunch                |                     | obiad, tyle że w Warszawie            |
+| meeting              | miting              | spotkanie                             |
+| message              | messedż             | widomość                              |
 | mockup               | mokap               | makieta                               |
 | paging               | paginacja           | stronicowanie                         |
 | process              | procesować          | przetwarzać                           |
@@ -49,6 +52,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | response             |                     | odpowiedź                             |
 | review               | rewiułować          | przejrzeć                             |
 | rollback             |                     | wycofać, przywrócić                   |
+| save                 | sejw                | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
 | service              | serwis              | usługa                                |
 | support              | saportować          | wspierać                              |
