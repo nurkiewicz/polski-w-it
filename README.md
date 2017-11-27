@@ -44,7 +44,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | message              | messedż             | widomość                              |
 | mockup               | mokap               | makieta                               |
 | paging               | paginacja           | stronicowanie                         |
-| Proof of Concept/PoC | poc                 | dowód słuszności (przyjętych założeń) |
+| Proof of Concept/PoC | piołsi              | dowód słuszności (przyjętych założeń) |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
