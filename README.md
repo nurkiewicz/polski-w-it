@@ -13,6 +13,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | approve              | zapruwować          | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
+| bean                 | bin, fasolka        | ziarno (bo od kawy)                   |
 | build                | bild                | budowanie                             |
 | button               | baton               | przycisk                              |
 | cancel               | kanselować          | anulować                              |
