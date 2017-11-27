@@ -10,45 +10,45 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 
 | Angielski            | Polskawy            | Polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
-| approve              | zapruwować          | zaakceptować                          |
+| approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
 | build                | bild                | budowanie                             |
-| button               | baton               | przycisk                              |
-| cancel               | kanselować          | anulować                              |
+| button               | baton               | przycisk, guzik                       |
+| cancel               | kanselować, anulacja| anulować                              |
 | case                 | kejs                | przypadek                             |
 | confirm              | konfirmować         | potwierdzić                           |
-| content              |                     | zawartość, treść                      |
+| content              | kontent             | zawartość, treść                      |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
 | deploy               | zdiplojować         | wdrożyć                               |
-| edge case            |                     | przypadek brzegowy                    |
-| event                |                     | zdarzenie                             |
-| feature              | ficzer              | funkcja                               |
-| feedback             |                     | informacja zwrotna                    |
+| edge case            | edż kejs            | przypadek brzegowy                    |
+| event                | iwent               | zdarzenie, wydarzenie                 |
+| feature              | funkcjonalność      | funkcja, pot. ficzer                  |
+| feedback             | fidbek              | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
 | footer               |                     | stopka                                |
 | foreign key          | foren kij           | klucz obcy                            |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
-| issue                | isiu                | problem                               |
+| issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
 | label                | labelka             | etykieta                              |
 | latency              |                     | opóźnienie                            |
 | layout               | lejałt              | układ (np. elementów interfejsu)      |
 | lock                 | zalokować           | zablokować                            |
 | launch               | lancz               | uruchomić, wprowadzić na rynek        |
-| lunch                |                     | obiad, tyle że w Warszawie            |
+| lunch                | lancz               | obiad, tyle że w Warszawie            |
 | meeting              | miting              | spotkanie                             |
-| message              | messedż             | widomość                              |
+| message              | messedż             | wiadomość                             |
 | mockup               | mokap               | makieta                               |
-| paging               | paginacja           | stronicowanie                         |
+| paging               | paginacja, stronnicowanie| stronicowanie                    |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | request              |                     | żądanie                               |
-| research             |                     | zbadać                                |
+| research             | risercz             | zbadać                                |
 | response             |                     | odpowiedź                             |
 | review               | rewiułować          | przejrzeć                             |
 | rollback             |                     | wycofać, przywrócić                   |
