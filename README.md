@@ -57,4 +57,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | threshold            |                     | próg, poziom                          |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
+| usability            |                     | użyteczność                           |
+| use case             |                     | przypadek użycia                      |
+| user                 |                     | użytkownik                            |
 | workaround           |                     | obejście                              |
