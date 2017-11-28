@@ -21,6 +21,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | content              |                     | zawartość, treść                      |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
+| dependency           | dependencja         | zależność                             |
 | deploy               | zdiplojować         | wdrożyć                               |
 | developer            |                     | programista                           |
 | edge case            |                     | przypadek brzegowy                    |
