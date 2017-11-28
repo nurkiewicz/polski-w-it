@@ -7,5 +7,4 @@ def readme():
 
 def test_all_rows_in_table_equal_length():
 	rows = [line for line in readme() if line[0] == '|']
-	first_row = rows[0]
 	assert len(set([len(row) for row in rows])) == 1
