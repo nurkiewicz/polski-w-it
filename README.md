@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/nurkiewicz/polski-w-it.svg?branch=master)](https://travis-ci.org/nurkiewicz/polski-w-it)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Krótki słowniczek pojęć w języku angielskim z okolic programowania oraz ich polskich odpowiedników.
 Co prawda nikt z nas nie mówi _rusztowanie sieciowe oparte o wstrzykiwanie ziaren_ czy [_ściana ognia_](https://www.youtube.com/watch?v=wFXLzr86MQ4&t=6).
 Ale już _customowy header na requeście_ można śmiało zastąpić _niestandardowym nagłówkiem żądania_.
@@ -8,7 +11,7 @@ Bez ironii, bez korpomowy.
 Zachęcam do współudziału (ang. _contribution_).
 Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie tłumacząc na siłę.
 
-| Angielski            | Polskawy            | Polski                                |
+| angielski            | polskawy            | polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
 | approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
@@ -22,9 +25,10 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
 | deploy               | zdiplojować         | wdrożyć                               |
+| developer            |                     | programista                           |
 | edge case            | edż kejs            | przypadek brzegowy                    |
 | event                | iwent               | zdarzenie, wydarzenie                 |
-| feature              | funkcjonalność      | funkcja, pot. ficzer                  |
+| feature              | funkcjonalność, ficzer| funkcja                             |
 | feedback             | fidbek              | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
@@ -49,6 +53,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | property             |                     | właściwość, opcja, cecha              |
 | request              |                     | żądanie                               |
 | research             | risercz             | zbadać                                |
+| resource             |                     | zasób                                 |
 | response             |                     | odpowiedź                             |
 | review               | rewiułować          | przejrzeć                             |
 | rollback             |                     | wycofać, przywrócić                   |
