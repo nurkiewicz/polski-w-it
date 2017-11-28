@@ -40,9 +40,9 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | job                  |                     | zadanie                               |
 | label                | labelka             | etykieta                              |
 | latency              |                     | opóźnienie                            |
+| launch               | lancz               | uruchomić, wprowadzić na rynek        |
 | layout               | lejałt              | układ (np. elementów interfejsu)      |
 | lock                 | zalokować           | zablokować                            |
-| launch               | lancz               | uruchomić, wprowadzić na rynek        |
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | meeting              | miting              | spotkanie                             |
 | message              |                     | wiadomość                             |
