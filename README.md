@@ -59,6 +59,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | review               | rewiułować          | przejrzeć                             |
 | rollback             |                     | wycofać, przywrócić                   |
 | save                 | sejw                | zapisać                               |
+| setup (_cz._)        | zsetapować          | zestawić                              |
+| setup (_rz._)        |                     | konfiguracja                          |
 | schedule             | zaskedżulować       | zaplanować                            |
 | service              | serwis              | usługa                                |
 | support              | saportować          | wspierać                              |
