@@ -30,6 +30,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | flow                 |                     | przepływ                              |
 | footer               |                     | stopka                                |
 | foreign key          | foren kij           | klucz obcy                            |
+| garbage collector    | giecek, śmieciarz   | odśmiecacz (pamięci)                  |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
 | issue                | isiu                | problem                               |
