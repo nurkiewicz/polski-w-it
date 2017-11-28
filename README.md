@@ -14,6 +14,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
 | build                | bild                | budowanie                             |
+| bug                  | bag                 | błąd                                  |
 | button               | baton               | przycisk                              |
 | cancel               | kanselować          | anulować                              |
 | case                 | kejs                | przypadek                             |
