@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/nurkiewicz/polski-w-it.svg?branch=master)](https://travis-ci.org/nurkiewicz/polski-w-it)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Krótki słowniczek pojęć w języku angielskim z okolic programowania oraz ich polskich odpowiedników.
 Co prawda nikt z nas nie mówi _rusztowanie sieciowe oparte o wstrzykiwanie ziaren_ czy [_ściana ognia_](https://www.youtube.com/watch?v=wFXLzr86MQ4&t=6).
 Ale już _customowy header na requeście_ można śmiało zastąpić _niestandardowym nagłówkiem żądania_.
