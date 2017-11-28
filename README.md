@@ -22,6 +22,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
 | deploy               | zdiplojować         | wdrożyć                               |
+| developer            |                     | programista                           |
 | edge case            |                     | przypadek brzegowy                    |
 | event                |                     | zdarzenie                             |
 | feature              | ficzer              | funkcja                               |
