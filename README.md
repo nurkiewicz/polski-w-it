@@ -41,7 +41,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | launch               | lancz               | uruchomić, wprowadzić na rynek        |
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | meeting              | miting              | spotkanie                             |
-| message              |                     | wiadomość                              |
+| message              |                     | wiadomość                             |
 | mockup               | mokap               | makieta                               |
 | paging               | paginacja           | stronicowanie                         |
 | process              | procesować          | przetwarzać                           |
@@ -49,6 +49,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | property             |                     | właściwość, opcja, cecha              |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
+| resource             |                     | zasób                                 |
 | response             |                     | odpowiedź                             |
 | review               | rewiułować          | przejrzeć                             |
 | rollback             |                     | wycofać, przywrócić                   |
