@@ -17,10 +17,10 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
 | bug                  |                     | błąd                                  |
-| build                | bild                | budowanie                             |
-| button               | baton               | przycisk                              |
-| cancel               | kanselować          | anulować                              |
-| case                 | kejs                | przypadek                             |
+| build                | zbildować           | budowanie                             |
+| button               |                     | przycisk                              |
+| cancel               | (s)kanselować       | anulować                              |
+| case                 |                     | przypadek                             |
 | confirm              | konfirmować         | potwierdzić                           |
 | content              |                     | zawartość, treść                      |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
@@ -35,20 +35,20 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | fix                  | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
 | footer               |                     | stopka                                |
-| foreign key          | foren kij           | klucz obcy                            |
+| foreign key          |                     | klucz obcy                            |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
 | issue                | isiu                | problem                               |
 | job                  |                     | zadanie                               |
-| label                | labelka             | etykieta                              |
+| label                |                     | etykieta                              |
 | latency              |                     | opóźnienie                            |
-| launch               | lancz               | uruchomić, wprowadzić na rynek        |
-| layout               | lejałt              | układ (np. elementów interfejsu)      |
+| launch               |                     | uruchomić, wprowadzić na rynek        |
+| layout               |                     | układ (np. elementów interfejsu)      |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
-| meeting              | miting              | spotkanie                             |
+| meeting              |                     | spotkanie                             |
 | message              |                     | wiadomość                             |
-| mockup               | mokap               | makieta                               |
+| mockup               |                     | makieta                               |
 | paging               | paginacja           | stronicowanie                         |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
@@ -59,9 +59,9 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | response             |                     | odpowiedź                             |
 | review               | rewiułować          | przejrzeć                             |
 | rollback             |                     | wycofać, przywrócić                   |
-| save                 | sejw                | zapisać                               |
+| save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
-| service              | serwis              | usługa                                |
+| service              |                     | usługa                                |
 | set                  |                     | zbiór                                 |
 | setup (_cz._)        | zsetapować          | zestawić                              |
 | setup (_rz._)        |                     | konfiguracja                          |
