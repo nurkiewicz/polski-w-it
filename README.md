@@ -28,7 +28,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | developer            |                     | programista                           |
 | edge case            |                     | przypadek brzegowy                    |
 | event                |                     | zdarzenie, wydarzenie                 |
-| feature              | funkcjonalność, ficzer| funkcja                             |
+| feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
@@ -47,7 +47,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | meeting              | miting              | spotkanie                             |
 | message              |                     | wiadomość                             |
 | mockup               | mokap               | makieta                               |
-| paging               | paginacja           | stronicowanie (ale nie stronnicowanie)|
+| paging               | paginacja           | stronicowanie                         |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
