@@ -21,15 +21,15 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | cancel               | kanselować, anulacja| anulować                              |
 | case                 | kejs                | przypadek                             |
 | confirm              | konfirmować         | potwierdzić                           |
-| content              | kontent             | zawartość, treść                      |
+| content              |                     | zawartość, treść                      |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
 | deploy               | zdiplojować         | wdrożyć                               |
 | developer            |                     | programista                           |
-| edge case            | edż kejs            | przypadek brzegowy                    |
-| event                | iwent               | zdarzenie, wydarzenie                 |
+| edge case            |                     | przypadek brzegowy                    |
+| event                |                     | zdarzenie, wydarzenie                 |
 | feature              | funkcjonalność, ficzer| funkcja                             |
-| feedback             | fidbek              | informacja zwrotna                    |
+| feedback             |                     | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
 | footer               |                     | stopka                                |
@@ -40,20 +40,19 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | job                  |                     | zadanie                               |
 | label                | labelka             | etykieta                              |
 | latency              |                     | opóźnienie                            |
-| launch               | lancz               | uruchomić, wprowadzić na rynek        |
+| launch               |                     | uruchomić, wprowadzić na rynek        |
 | layout               | lejałt              | układ (np. elementów interfejsu)      |
 | lock                 | zalokować           | zablokować                            |
-| launch               | lancz               | uruchomić, wprowadzić na rynek        |
-| lunch                | lancz               | obiad, tyle że w Warszawie            |
+| lunch                |                     | obiad, tyle że w Warszawie            |
 | meeting              | miting              | spotkanie                             |
-| message              | messedż             | wiadomość                             |
+| message              |                     | wiadomość                             |
 | mockup               | mokap               | makieta                               |
-| paging               | paginacja, stronnicowanie| stronicowanie                    |
+| paging               | paginacja           | stronicowanie (ale nie stronnicowanie)|
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | request              |                     | żądanie                               |
-| research             | risercz             | zbadać                                |
+| research             |                     | zbadać                                |
 | resource             |                     | zasób                                 |
 | response             |                     | odpowiedź                             |
 | review               | rewiułować          | przejrzeć                             |
