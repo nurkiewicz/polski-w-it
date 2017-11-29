@@ -13,13 +13,13 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 
 | angielski            | polskawy            | polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
-| approve              | zapruwować          | zaakceptować                          |
+| approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
 | bug                  |                     | błąd                                  |
 | build                | zbildować           | budowanie                             |
-| button               |                     | przycisk                              |
-| cancel               | (s)kanselować       | anulować                              |
+| button               |                     | przycisk, guzik                       |
+| cancel               | kanselować, anulacja| anulować                              |
 | case                 |                     | przypadek                             |
 | confirm              | konfirmować         | potwierdzić                           |
 | content              |                     | zawartość, treść                      |
@@ -29,7 +29,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | deploy               | zdiplojować         | wdrożyć                               |
 | developer            |                     | programista                           |
 | edge case            |                     | przypadek brzegowy                    |
-| event                |                     | zdarzenie                             |
+| event                |                     | zdarzenie, wydarzenie                 |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
@@ -38,7 +38,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | foreign key          |                     | klucz obcy                            |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
-| issue                | isiu                | problem                               |
+| issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
 | label                |                     | etykieta                              |
 | latency              |                     | opóźnienie                            |
