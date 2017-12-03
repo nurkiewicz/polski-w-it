@@ -54,6 +54,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
+| random               | randomowy           | losowy, przypadkowy                   |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
 | resource             |                     | zasób                                 |
