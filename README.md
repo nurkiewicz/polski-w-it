@@ -39,6 +39,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | foreign key          |                     | klucz obcy                            |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
+| invalidate           | zinwalidować        | unieważnić                            |
 | issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
 | label                |                     | etykieta                              |
