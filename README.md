@@ -22,7 +22,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | cancel               | kanselować, anulacja| anulować                              |
 | case                 |                     | przypadek                             |
 | confirm              | konfirmować         | potwierdzić                           |
-| consistent           | konsystentny        | spójny				                         |
+| consistent           | konsystentny        | spójny                                |
 | content              |                     | zawartość, treść                      |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
