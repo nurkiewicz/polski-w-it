@@ -53,6 +53,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | mockup               |                     | makieta                               |
 | paging               | paginacja           | stronicowanie                         |
 | pattern              |                     | wzorzec                               |
+| plugin               |                     | wtyczka                               |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
