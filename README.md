@@ -8,60 +8,60 @@ Bez ironii, bez korpomowy.
 Zachęcam do współudziału (ang. _contribution_).
 Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie tłumacząc na siłę.
 
-| Angielski            | Polskawy            | Polski                                |
-| :------------------- | :------------------ | :------------------------------------ |
-| approve              | zapruwować          | zaakceptować                          |
-| authentication       | autentykacja        | uwierzytelnienie (!)                  |
-| authorization        |                     | autoryzacja                           |
-| build                | bild                | budowanie                             |
-| button               | baton               | przycisk                              |
-| cancel               | kanselować          | anulować                              |
-| case                 | kejs                | przypadek                             |
-| confirm              | konfirmować         | potwierdzić                           |
-| content              |                     | zawartość, treść                      |
-| custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
-| default              | difoltowo           | domyślnie                             |
-| deploy               | zdiplojować         | wdrożyć                               |
-| edge case            |                     | przypadek brzegowy                    |
-| event                |                     | zdarzenie                             |
-| feature              | ficzer              | funkcja                               |
-| feedback             |                     | informacja zwrotna                    |
-| fix                  | fiksnąć             | poprawić                              |
-| flow                 |                     | przepływ                              |
-| footer               |                     | stopka                                |
-| foreign key          | foren kij           | klucz obcy                            |
-| header               |                     | nagłówek                              |
-| impact               |                     | wpływ                                 |
-| issue                | isiu                | problem                               |
-| job                  |                     | zadanie                               |
-| label                | labelka             | etykieta                              |
-| latency              |                     | opóźnienie                            |
-| layout               | lejałt              | układ (np. elementów interfejsu)      |
-| lock                 | zalokować           | zablokować                            |
-| launch               | lancz               | uruchomić, wprowadzić na rynek        |
-| lunch                |                     | obiad, tyle że w Warszawie            |
-| meeting              | miting              | spotkanie                             |
-| message              | messedż             | widomość                              |
-| mockup               | mokap               | makieta                               |
-| paging               | paginacja           | stronicowanie                         |
-| process              | procesować          | przetwarzać                           |
-| progress             |                     | postęp                                |
-| property             |                     | właściwość, opcja, cecha              |
-| request              |                     | żądanie                               |
-| research             |                     | zbadać                                |
-| response             |                     | odpowiedź                             |
-| review               | rewiułować          | przejrzeć                             |
-| rollback             |                     | wycofać, przywrócić                   |
-| save                 | sejw                | zapisać                               |
-| schedule             | zaskedżulować       | zaplanować                            |
-| service              | serwis              | usługa                                |
-| support              | saportować          | wspierać                              |
-| task                 |                     | zadanie                               |
-| team                 |                     | zespół                                |
-| threshold            |                     | próg, poziom                          |
-| ticket               |                     | zadanie                               |
-| toggle               | togel               | przełącznik                           |
-| usability            |                     | użyteczność                           |
-| use case             |                     | przypadek użycia                      |
-| user                 |                     | użytkownik                            |
-| workaround           |                     | obejście                              |
+| Angielski            | Polskawy            | Polski                                             |
+| :------------------- | :------------------ | :------------------------------------------------- |
+| approve              | zapruwować          | zaakceptować                                       |
+| authentication       | autentykacja        | uwierzytelnienie (!)                               |
+| authorization        |                     | autoryzacja                                        |
+| build                | bild                | budowanie                                          |
+| button               | baton               | przycisk                                           |
+| cancel               | kanselować          | anulować                                           |
+| case                 | kejs                | przypadek                                          |
+| confirm              | konfirmować         | potwierdzić                                        |
+| content              |                     | zawartość, treść                                   |
+| custom               | kastomowy           | specjalny, nietypowy, niestandardowy, dostosowany  |
+| default              | difoltowo           | domyślnie                                          |
+| deploy               | zdiplojować         | wdrożyć                                            |
+| edge case            |                     | przypadek brzegowy                                 |
+| event                |                     | zdarzenie                                          |
+| feature              | ficzer              | funkcja                                            |
+| feedback             |                     | informacja zwrotna                                 |
+| fix                  | fiksnąć             | poprawić                                           |
+| flow                 |                     | przepływ                                           |
+| footer               |                     | stopka                                             |
+| foreign key          | foren kij           | klucz obcy                                         |
+| header               |                     | nagłówek                                           |
+| impact               |                     | wpływ                                              |
+| issue                | isiu                | problem                                            |
+| job                  |                     | zadanie                                            |
+| label                | labelka             | etykieta                                           |
+| latency              |                     | opóźnienie                                         |
+| layout               | lejałt              | układ (np. elementów interfejsu)                   |
+| lock                 | zalokować           | zablokować                                         |
+| launch               | lancz               | uruchomić, wprowadzić na rynek                     |
+| lunch                |                     | obiad, tyle że w Warszawie                         |
+| meeting              | miting              | spotkanie                                          |
+| message              | messedż             | widomość                                           |
+| mockup               | mokap               | makieta                                            |
+| paging               | paginacja           | stronicowanie                                      |
+| process              | procesować          | przetwarzać                                        |
+| progress             |                     | postęp                                             |
+| property             |                     | właściwość, opcja, cecha                           |
+| request              |                     | żądanie                                            |
+| research             |                     | zbadać                                             |
+| response             |                     | odpowiedź                                          |
+| review               | rewiułować          | przejrzeć                                          |
+| rollback             |                     | wycofać, przywrócić                                |
+| save                 | sejw                | zapisać                                            |
+| schedule             | zaskedżulować       | zaplanować                                         |
+| service              | serwis              | usługa                                             |
+| support              | saportować          | wspierać                                           |
+| task                 |                     | zadanie                                            |
+| team                 |                     | zespół                                             |
+| threshold            |                     | próg, poziom                                       |
+| ticket               |                     | zadanie                                            |
+| toggle               | togel               | przełącznik                                        |
+| usability            |                     | użyteczność                                        |
+| use case             |                     | przypadek użycia                                   |
+| user                 |                     | użytkownik                                         |
+| workaround           |                     | obejście                                           |
