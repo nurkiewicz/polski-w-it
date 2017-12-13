@@ -52,6 +52,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | meeting              |                     | spotkanie                             |
 | message              |                     | wiadomość                             |
 | mockup               |                     | makieta                               |
+| overhead             |                     | narzut                                |
 | paging               | paginacja           | stronicowanie                         |
 | pattern              |                     | wzorzec                               |
 | plugin               |                     | wtyczka                               |
