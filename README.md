@@ -69,8 +69,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
 | service              |                     | usługa                                |
-| set (_cz._)          |                     | zbiór                                 |
-| set (_rz._)          | setować             | ustawiać                              |
+| set (_rz._)          |                     | zbiór                                 |
+| set (_cz._)          | setować             | ustawiać                              |
 | setup (_cz._)        | zsetapować          | zestawić                              |
 | setup (_rz._)        |                     | konfiguracja                          |
 | support              | saportować          | wspierać                              |
