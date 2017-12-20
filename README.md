@@ -77,6 +77,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | support              | saportować          | wspierać                              |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
+| template             | templatka           | szablon                               |
 | threshold            |                     | próg, poziom                          |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
