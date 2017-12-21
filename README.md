@@ -53,6 +53,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | message              |                     | wiadomość                             |
 | mockup               |                     | makieta                               |
 | overhead             |                     | narzut                                |
+| patch                | paczować            | łatać, naprawiać                      |
 | paging               | paginacja           | stronicowanie                         |
 | pattern              |                     | wzorzec                               |
 | plugin               |                     | wtyczka                               |
@@ -60,6 +61,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | random               | randomowy           | losowy, przypadkowy                   |
+| release              | rilisować           | wypuszczać nową wersję                |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
 | resource             |                     | zasób                                 |
@@ -80,6 +82,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | threshold            |                     | próg, poziom                          |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
+| update               | apdejtować          | aktualizować                          |   
 | usability            |                     | użyteczność                           |
 | use case             |                     | przypadek użycia                      |
 | user                 |                     | użytkownik                            |
