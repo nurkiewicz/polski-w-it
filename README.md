@@ -53,8 +53,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | message              |                     | wiadomość                             |
 | mockup               |                     | makieta                               |
 | overhead             |                     | narzut                                |
-| patch                | paczować            | łatać, naprawiać                      |
 | paging               | paginacja           | stronicowanie                         |
+| patch                | paczować            | łatać, naprawiać                      |
 | pattern              |                     | wzorzec                               |
 | plugin               |                     | wtyczka                               |
 | process              | procesować          | przetwarzać                           |
