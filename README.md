@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/nurkiewicz/polski-w-it.svg?branch=master)](https://travis-ci.org/nurkiewicz/polski-w-it)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Krótki słowniczek pojęć w języku angielskim z okolic programowania oraz ich polskich odpowiedników.
 Co prawda nikt z nas nie mówi _rusztowanie sieciowe oparte o wstrzykiwanie ziaren_ czy [_ściana ognia_](https://www.youtube.com/watch?v=wFXLzr86MQ4&t=6).
 Ale już _customowy header na requeście_ można śmiało zastąpić _niestandardowym nagłówkiem żądania_.
@@ -10,57 +13,72 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 
 | angielski            | polskawy            | polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
-| approve              | zapruwować          | zaakceptować                          |
+| approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
-| build                | bild                | budowanie                             |
-| button               | baton               | przycisk                              |
-| cancel               | kanselować          | anulować                              |
-| case                 | kejs                | przypadek                             |
+| bug                  |                     | błąd                                  |
+| build                | zbildować           | zbudować                              |
+| button               |                     | przycisk, guzik                       |
+| cancel               | kanselować, anulacja| anulować                              |
+| case                 |                     | przypadek                             |
 | confirm              | konfirmować         | potwierdzić                           |
+| consistent           | konsystentny        | spójny                                |
 | content              |                     | zawartość, treść                      |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
+| dependency           | dependencja         | zależność                             |
 | deploy               | zdiplojować         | wdrożyć                               |
+| developer            |                     | programista                           |
 | edge case            |                     | przypadek brzegowy                    |
-| event                |                     | zdarzenie                             |
+| event                |                     | zdarzenie, wydarzenie                 |
+| expire               | wyekspajerować      | wygasić                               |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
 | footer               |                     | stopka                                |
-| foreign key          | foren kij           | klucz obcy                            |
+| foreign key          |                     | klucz obcy                            |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
-| issue                | isiu                | problem                               |
+| invalidate           | zinwalidować        | unieważnić                            |
+| issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
-| label                | labelka             | etykieta                              |
+| label                |                     | etykieta                              |
 | latency              |                     | opóźnienie                            |
-| layout               | lejałt              | układ (np. elementów interfejsu)      |
+| launch               |                     | uruchomić, wprowadzić na rynek        |
+| layout               |                     | układ (np. elementów interfejsu)      |
 | lock                 | zalokować           | zablokować                            |
-| launch               | lancz               | uruchomić, wprowadzić na rynek        |
 | lunch                |                     | obiad, tyle że w Warszawie            |
-| meeting              | miting              | spotkanie                             |
-| message              | messedż             | widomość                              |
-| mockup               | mokap               | makieta                               |
+| meeting              |                     | spotkanie                             |
+| message              |                     | wiadomość                             |
+| mockup               |                     | makieta                               |
+| overhead             |                     | narzut                                |
 | paging               | paginacja           | stronicowanie                         |
-| Proof of Concept/PoC | piołsi              | dowód słuszności (przyjętych założeń) |
+| pattern              |                     | wzorzec                               |
+| plugin               |                     | wtyczka                               |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
-| prototype            |                     | prototyp                              |
+| random               | randomowy           | losowy, przypadkowy                   |
 | release              |                     | wydanie, wersja                       |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
+| resource             |                     | zasób                                 |
 | response             |                     | odpowiedź                             |
 | review               | rewiułować          | przejrzeć                             |
 | rollback             |                     | wycofać, przywrócić                   |
-| save                 | sejw                | zapisać                               |
+| sample               |                     | próbka, przykład                      |
+| save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
-| service              | serwis              | usługa                                |
+| service              |                     | usługa                                |
+| set (_cz._)          | setować             | ustawiać                              |
+| set (_rz._)          |                     | zbiór                                 |
+| setup (_cz._)        | zsetapować          | zestawić                              |
+| setup (_rz._)        |                     | konfiguracja                          |
 | support              | saportować          | wspierać                              |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
+| template             | templatka           | szablon                               |
 | threshold            |                     | próg, poziom                          |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
