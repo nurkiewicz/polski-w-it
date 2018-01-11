@@ -62,7 +62,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | random               | randomowy           | losowy, przypadkowy                   |
-| release              | rilisować           | wypuszczać nową wersję                |
+| release (_n_)        |                     | wydanie, wersja                       |
+| release (_v_)        | rilisować           | wydawać nową wersję                   |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
 | resource             |                     | zasób                                 |
