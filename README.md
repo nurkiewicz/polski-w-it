@@ -73,10 +73,10 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
 | service              |                     | usługa                                |
-| set (_cz._)          | setować             | ustawiać                              |
-| set (_rz._)          |                     | zbiór                                 |
-| setup (_cz._)        | zsetapować          | zestawić                              |
-| setup (_rz._)        |                     | konfiguracja                          |
+| set (_n_)            | setować             | ustawiać                              |
+| set (_v_)            |                     | zbiór                                 |
+| setup (_n_)          |                     | konfiguracja                          |
+| setup (_v_)          | zsetapować          | zestawić                              |
 | support              | saportować          | wspierać                              |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
@@ -89,3 +89,6 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | use case             |                     | przypadek użycia                      |
 | user                 |                     | użytkownik                            |
 | workaround           |                     | obejście                              |
+
+* _n_ - rzeczownik
+* _v_ - czasownik
