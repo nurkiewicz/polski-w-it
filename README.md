@@ -56,6 +56,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | paging               | paginacja           | stronicowanie                         |
 | patch                | paczować            | łatać, naprawiać                      |
 | pattern              |                     | wzorzec                               |
+| periodic             | periodycznie        | okresowo                              |
 | permission           |                     | uprawnienie                           |
 | plugin               |                     | wtyczka                               |
 | process              | procesować          | przetwarzać                           |
