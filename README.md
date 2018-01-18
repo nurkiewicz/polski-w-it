@@ -31,7 +31,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | developer            |                     | programista                           |
 | edge case            |                     | przypadek brzegowy                    |
 | event                |                     | zdarzenie, wydarzenie                 |
-| expire               | wyekspajerować      | wygasić                               |
+| expire               | wyekspajerować      | wygasać, wygasnąć, utracić ważność    |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
