@@ -32,6 +32,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | edge case            |                     | przypadek brzegowy                    |
 | event                |                     | zdarzenie, wydarzenie                 |
 | expire               | wyekspajerować      | wygasić                               |
+| extend               | ekstendować         | rozszerzać                            |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
