@@ -32,6 +32,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | edge case            |                     | przypadek brzegowy                    |
 | event                |                     | zdarzenie, wydarzenie                 |
 | expire               | wyekspajerować      | wygasać, wygasnąć, utracić ważność    |
+| extend               | ekstendować         | rozszerzać                            |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
@@ -74,8 +75,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
 | service              |                     | usługa                                |
-| set (_n_)            | setować             | ustawiać                              |
-| set (_v_)            |                     | zbiór                                 |
+| set (_n_)            |                     | zbiór                                 |
+| set (_v_)            | setować             | ustawiać                              |
 | setup (_n_)          |                     | konfiguracja                          |
 | setup (_v_)          | zsetapować          | zestawić                              |
 | support              | saportować          | wspierać                              |
