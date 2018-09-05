@@ -39,6 +39,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | flow                 |                     | przepływ                              |
 | footer               |                     | stopka                                |
 | foreign key          |                     | klucz obcy                            |
+| form                 | formatka            | formularz                             |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
 | invalidate           | zinwalidować        | unieważnić                            |
