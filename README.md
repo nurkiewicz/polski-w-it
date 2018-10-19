@@ -58,12 +58,14 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | paging               | paginacja           | stronicowanie                         |
 | patch                | paczować            | łatać, naprawiać                      |
 | pattern              |                     | wzorzec                               |
+| performance          | performować         | wydajność                             |
 | permission           |                     | uprawnienie                           |
 | plugin               |                     | wtyczka                               |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | random               | randomowy           | losowy, przypadkowy                   |
+| reflection           | refleksja           | odbicie, odzwierciedlenie             |
 | release (_n_)        |                     | wydanie, wersja                       |
 | release (_v_)        | rilisować           | wydawać nową wersję                   |
 | request              |                     | żądanie                               |
