@@ -37,6 +37,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | feedback             |                     | informacja zwrotna                    |
 | fix                  | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
+| focus (_v_)          | sfocusować          | skupić się                            |
 | footer               |                     | stopka                                |
 | foreign key          |                     | klucz obcy                            |
 | form                 | formatka            | formularz                             |
