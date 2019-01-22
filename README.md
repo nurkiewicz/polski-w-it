@@ -67,6 +67,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | random               | randomowy           | losowy, przypadkowy                   |
 | release (_n_)        |                     | wydanie, wersja                       |
 | release (_v_)        | rilisować           | wydawać nową wersję                   |
+| rename               | przenazwać          | zmienić nazwę                         |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
 | resource             |                     | zasób                                 |
