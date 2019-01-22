@@ -55,6 +55,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | meeting              |                     | spotkanie                             |
 | message              |                     | wiadomość                             |
 | mockup               |                     | makieta                               |
+| muted                | zmutowany           | wyciszony                             |
 | overhead             |                     | narzut                                |
 | paging               | paginacja           | stronicowanie                         |
 | patch                | paczować            | łatać, naprawiać                      |
