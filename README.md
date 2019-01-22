@@ -27,6 +27,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | content              |                     | zawartość, treść                      |
 | core                 |                     | rdzeń                                 |
 | corner case          |                     | przypadek szczególny                  |
+| credentials          | kredensziale        | poświadczenia                         |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
 | dependency           | dependencja         | zależność                             |
