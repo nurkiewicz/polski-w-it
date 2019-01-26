@@ -85,6 +85,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | set (_v_)            | setować             | ustawiać                              |
 | setup (_n_)          |                     | konfiguracja                          |
 | setup (_v_)          | zsetapować          | zestawić                              |
+| share (_v_)          | szerować            | udostępnić                            |
 | support              | saportować          | wspierać                              |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
