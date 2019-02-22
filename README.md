@@ -21,6 +21,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | button               |                     | przycisk, guzik                       |
 | cancel               | kanselować, anulacja| anulować                              |
 | case                 |                     | przypadek                             |
+| cast                 | kastować            | rzutować                              |
 | confirm              | konfirmować         | potwierdzić                           |
 | consistent           | konsystentny        | spójny                                |
 | content              |                     | zawartość, treść                      |
