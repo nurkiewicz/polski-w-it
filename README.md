@@ -43,6 +43,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | footer               |                     | stopka                                |
 | foreign key          |                     | klucz obcy                            |
 | form                 | formatka            | formularz                             |
+| handle (_v_)         | handlować           | obsłużyć                              |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
 | inject (_v_)         | indżektować         | wstrzykiwać                           |
