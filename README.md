@@ -45,6 +45,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | form                 | formatka            | formularz                             |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
+| inject (_v_)         | indżektować         | wstrzykiwać                           |
 | invalidate           | zinwalidować        | unieważnić                            |
 | issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
