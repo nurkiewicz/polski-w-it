@@ -50,6 +50,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
 | label                |                     | etykieta                              |
+| lag                  |                     | opóźnienie                            |
 | latency              |                     | opóźnienie                            |
 | launch               |                     | uruchomić, wprowadzić na rynek        |
 | layout               |                     | układ (np. elementów interfejsu)      |
