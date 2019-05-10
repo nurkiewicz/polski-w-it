@@ -31,6 +31,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | dependency           | dependencja         | zależność                             |
 | deploy               | zdiplojować         | wdrożyć                               |
 | developer            |                     | programista                           |
+| doable               | robialne            | wykonalne                             |
 | edge case            |                     | przypadek brzegowy                    |
 | event                |                     | zdarzenie, wydarzenie                 |
 | expire               | wyekspajerować      | wygasać, wygasnąć, utracić ważność    |
