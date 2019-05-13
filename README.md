@@ -28,6 +28,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | corner case          |                     | przypadek szczególny                  |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
+| device               |                     | urządzenie                            |
 | dependency           | dependencja         | zależność                             |
 | deploy               | zdiplojować         | wdrożyć                               |
 | developer            |                     | programista                           |
