@@ -60,6 +60,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | meeting              |                     | spotkanie                             |
 | message              |                     | wiadomość                             |
+| metric               | metryka             | miara                                 |
 | mockup               |                     | makieta                               |
 | muted                | zmutowany           | wyciszony                             |
 | overhead             |                     | narzut                                |
