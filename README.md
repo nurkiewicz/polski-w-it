@@ -5,7 +5,7 @@ Krótki słowniczek pojęć w języku angielskim z okolic danologii (ang. Data S
 Co prawda nikt z nas nie mówi _spadkowicz_ (ang. dropout) czy _głęboka sieć splotowa_, ale już _natural language processing_ można śmiało zastąpić _analizą języka naturalnego_.
 Po prostu czasem istnieje poprawne, polskie sformułownanie i nie ma powodu, żeby kaleczyć język.
 
-Ograniczamy się do pojęć z zakresu danologii.
+Ograniczamy się do pojęć z zakresu [danologii](https://www.youtube.com/watch?v=4g-a5cs7tQ0).
 Bez ironii, bez korpomowy.
 Zachęcam do współudziału (ang. _contribution_).
 Znaczy [pull requestów](https://github.com/xenteros/polski-w-data-science/pulls), nie tłumacząc na siłę.
