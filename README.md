@@ -12,7 +12,7 @@ Znaczy [pull requestów](https://github.com/xenteros/polski-w-data-science/pulls
 
 | angielski            | polskawy            | polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
-| data science              |          | danologia                          |
+| data science         |                     | danologia                             |
 
 
 * _n_ - rzeczownik
