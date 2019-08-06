@@ -25,6 +25,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | confirm              | konfirmować         | potwierdzić                           |
 | consistent           | konsystentny        | spójny                                |
 | content              |                     | zawartość, treść                      |
+| core                 |                     | rdzeń                                 |
 | corner case          |                     | przypadek szczególny                  |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
 | default              | difoltowo           | domyślnie                             |
