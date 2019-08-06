@@ -33,6 +33,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | developer            |                     | programista                           |
 | device               |                     | urządzenie                            |
 | edge case            |                     | przypadek brzegowy                    |
+| error                |                     | błąd                                  |
 | event                |                     | zdarzenie, wydarzenie                 |
 | expire               | wyekspajerować      | wygasać, wygasnąć, utracić ważność    |
 | extend               | ekstendować         | rozszerzać                            |
