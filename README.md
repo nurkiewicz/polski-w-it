@@ -31,6 +31,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | default              | difoltowo           | domyślnie                             |
 | dependency           | dependencja         | zależność                             |
 | deploy               | zdiplojować         | wdrożyć                               |
+| deprecated           | zdeprykacjonowany   | przestarzały                          |
 | developer            |                     | programista                           |
 | device               |                     | urządzenie                            |
 | edge case            |                     | przypadek brzegowy                    |
