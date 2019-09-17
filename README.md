@@ -53,6 +53,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | handle (_v_)         | handlować           | obsłużyć                              |
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
+| improvement          |                     | ulepszenie, poprawa                   |
 | inject (_v_)         | indżektować         | wstrzykiwać                           |
 | invalidate           | zinwalidować        | unieważnić                            |
 | issue                | isiu                | kwestia, problem                      |
