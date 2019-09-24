@@ -69,6 +69,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | metric               | metryka             | miara                                 |
 | mockup               |                     | makieta                               |
 | muted                | zmutowany           | wyciszony                             |
+| notification         |                     | powiadomienie                         |
+| notify               | notifajować         | powiadomić                            |
 | overhead             |                     | narzut                                |
 | paging               | paginacja           | stronicowanie                         |
 | patch                | paczować            | łatać, naprawiać                      |
