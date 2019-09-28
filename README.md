@@ -70,6 +70,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | metric               | metryka             | miara                                 |
 | mockup               |                     | makieta                               |
 | muted                | zmutowany           | wyciszony                             |
+| node                 |                     | węzeł                                 |
 | overhead             |                     | narzut                                |
 | paging               | paginacja           | stronicowanie                         |
 | patch                | paczować            | łatać, naprawiać                      |
