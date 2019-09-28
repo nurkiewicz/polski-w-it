@@ -66,6 +66,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | meeting              |                     | spotkanie                             |
+| member               |                     | członek, uczestnik (np. klastra)      |
 | message              |                     | wiadomość                             |
 | metric               | metryka             | miara                                 |
 | mockup               |                     | makieta                               |
