@@ -109,6 +109,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
 | trigger (_v_)        | trigerować          | wyzwalać                              |
+| unlock (_v_)         |                     | odblokować                            |
 | update               | apdejtować          | aktualizować                          |
 | usability            |                     | użyteczność                           |
 | use case             |                     | przypadek użycia                      |
