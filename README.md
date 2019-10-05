@@ -102,6 +102,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | setup (_v_)          | zsetapować          | zestawić                              |
 | share (_v_)          | szerować            | udostępnić                            |
 | support              | saportować          | wspierać                              |
+| switch (_v_)         | słiczować           | przełączyć                            |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
 | template             | templatka           | szablon                               |
