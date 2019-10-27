@@ -108,6 +108,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
 | template             | templatka           | szablon                               |
+| thread               |                     | wątek                                 |
 | threshold            |                     | próg, poziom                          |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
