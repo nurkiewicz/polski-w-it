@@ -111,6 +111,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
 | trigger (_v_)        | trigerować          | wyzwalać                              |
+| unit test            |                     | test jednostkowy                      |
 | update               | apdejtować          | aktualizować                          |
 | usability            |                     | użyteczność                           |
 | use case             |                     | przypadek użycia                      |
