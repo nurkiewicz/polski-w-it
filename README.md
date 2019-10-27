@@ -83,6 +83,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | random               | randomowy           | losowy, przypadkowy                   |
+| redundant            | redundantny         | nadmiarowy                            |
 | reflection           |                     | refleksja                             |
 | release (_n_)        |                     | wydanie, wersja                       |
 | release (_v_)        | rilisować           | wydawać nową wersję                   |
