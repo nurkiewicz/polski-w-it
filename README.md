@@ -80,6 +80,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | performance          | performować         | wydajność                             |
 | permission           |                     | uprawnienie                           |
 | plugin               |                     | wtyczka                               |
+| pointer              |                     | wskaźnik                              |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
