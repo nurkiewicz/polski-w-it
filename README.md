@@ -41,6 +41,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | device               |                     | urządzenie                            |
 | edge case            |                     | przypadek brzegowy                    |
 | error                |                     | błąd                                  |
+| estimate (_n_)       | estymata            | oszacowanie, szacunek                 |
+| estimate (_v_)       | estymować           | szacować                              |
 | event                |                     | zdarzenie, wydarzenie                 |
 | example              |                     | przykład                              |
 | exception            |                     | wyjątek                               |
