@@ -81,6 +81,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | permission           |                     | uprawnienie                           |
 | plugin               |                     | wtyczka                               |
 | pointer              |                     | wskaźnik                              |
+| portable             |                     | przenośny, portatywny                 |
 | process              | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
