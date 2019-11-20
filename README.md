@@ -4,7 +4,7 @@
 Krótki słowniczek pojęć w języku angielskim z okolic programowania oraz ich polskich odpowiedników.
 Co prawda nikt z nas nie mówi _rusztowanie sieciowe oparte o wstrzykiwanie ziaren_ czy [_ściana ognia_](https://www.youtube.com/watch?v=wFXLzr86MQ4&t=6).
 Ale już _customowy header na requeście_ można śmiało zastąpić _niestandardowym nagłówkiem żądania_.
-Po prostu czasem istnieje poprawne, polskie sformułownanie i nie ma powodu, żeby kaleczyć język.
+Po prostu czasem istnieje poprawne, polskie sformułowanie i nie ma powodu, żeby kaleczyć język.
 
 Ograniczamy się do pojęć z zakresu programowania.
 Bez ironii, bez korpomowy.
