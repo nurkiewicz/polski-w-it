@@ -57,6 +57,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | improvement          |                     | ulepszenie, poprawa                   |
 | inject (_v_)         | indżektować         | wstrzykiwać                           |
 | invalidate           | zinwalidować        | unieważnić                            |
+| investigate          | inwestygować        | zbadać, badać, sprawdzić              |
 | issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
 | label                |                     | etykieta                              |
