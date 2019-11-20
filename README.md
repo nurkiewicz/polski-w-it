@@ -79,6 +79,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | pattern              |                     | wzorzec                               |
 | performance          | performować         | wydajność                             |
 | permission           |                     | uprawnienie                           |
+| pipeline             | pajpline            | ścieżka wdrożenia                     |
 | plugin               |                     | wtyczka                               |
 | pointer              |                     | wskaźnik                              |
 | process              | procesować          | przetwarzać                           |
