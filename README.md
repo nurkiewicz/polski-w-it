@@ -45,7 +45,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | extend               | ekstendować         | rozszerzać                            |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
-| fix                  | fiksnąć             | poprawić                              |
+| fix (_n_)            | fiks                | poprawka                              |
+| fix (_v_)            | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
 | focus (_v_)          | sfocusować          | skupić się                            |
 | footer               |                     | stopka                                |
