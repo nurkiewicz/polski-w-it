@@ -40,8 +40,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | edge case            |                     | przypadek brzegowy                    |
 | error                |                     | błąd                                  |
 | event                |                     | zdarzenie, wydarzenie                 |
-| exception            |                     | wyjątek                               |
 | example              |                     | przykład                              |
+| exception            |                     | wyjątek                               |
 | expire               | wyekspajerować      | wygasać, wygasnąć, utracić ważność    |
 | extend               | ekstendować         | rozszerzać                            |
 | feature              | ficzer              | funkcja                               |
