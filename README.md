@@ -75,6 +75,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | mockup               |                     | makieta                               |
 | muted                | zmutowany           | wyciszony                             |
 | node                 |                     | węzeł                                 |
+| notification         |                     | powiadomienie                         |
+| notify               | notifajować         | powiadomić                            |
 | overhead             |                     | narzut                                |
 | paging               | paginacja           | stronicowanie                         |
 | patch                | paczować            | łatać, naprawiać                      |
