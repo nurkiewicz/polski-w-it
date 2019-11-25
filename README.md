@@ -77,6 +77,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | node                 |                     | węzeł                                 |
 | notification         |                     | powiadomienie                         |
 | notify               | notifajować         | powiadomić                            |
+| order (_n_)          |                     | (1) zlecenie (2) porządek, kolejność  |
+| order (_v_)          | orderować           | (1) zlecić (2) uporządkować           |
 | overhead             |                     | narzut                                |
 | paging               | paginacja           | stronicowanie                         |
 | patch                | paczować            | łatać, naprawiać                      |
