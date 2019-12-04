@@ -85,7 +85,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | permission           |                     | uprawnienie                           |
 | plugin               |                     | wtyczka                               |
 | pointer              |                     | wskaźnik                              |
-| process              | procesować          | przetwarzać                           |
+| process (_v_)        | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | random               | randomowy           | losowy, przypadkowy                   |
