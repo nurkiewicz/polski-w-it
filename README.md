@@ -132,6 +132,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | user                 |                     | użytkownik                            |
 | warning              |                     | ostrzeżenie                           |
 | workaround           |                     | obejście                              |
+| zoom                 |                     | powiększenie, powiększać              |
 
 * _n_ - rzeczownik
 * _v_ - czasownik
