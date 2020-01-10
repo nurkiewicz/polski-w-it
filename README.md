@@ -124,6 +124,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | threshold            |                     | próg, poziom                          |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
+| tool                 |                     | narzędzie                             |
 | trigger (_v_)        | trigerować          | wyzwalać                              |
 | unit test            |                     | test jednostkowy                      |
 | unlock (_v_)         |                     | odblokować                            |
