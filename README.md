@@ -106,7 +106,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | provider             |                     | dostawca                              |
-| proxy                | proksy              |                                       |
+| proxy                | proksy              | serwis pośredniczący                  |
 | random               | randomowy           | losowy, przypadkowy                   |
 | reactive             |                     | reaktywny                             |
 | reflection           |                     | refleksja                             |
