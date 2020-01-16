@@ -68,6 +68,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | latency              |                     | opóźnienie                            |
 | launch               |                     | uruchomić, wprowadzić na rynek        |
 | layout               |                     | układ (np. elementów interfejsu)      |
+| lifecycle            |                     | cykl życia                            |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | meeting              |                     | spotkanie                             |
