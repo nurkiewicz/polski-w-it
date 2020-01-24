@@ -13,6 +13,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 
 | angielski            | polskawy            | polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
+| anti-pattern         | antypattern         | antywzorzec, przeciwzorzec            |
 | approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
@@ -21,6 +22,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | button               |                     | przycisk, guzik                       |
 | cancel               | kanselować, anulacja| anulować                              |
 | case                 |                     | przypadek                             |
+| chart                |                     | wykres                                |
 | confirm              | konfirmować         | potwierdzić                           |
 | consistent           | konsystentny        | spójny                                |
 | content              |                     | zawartość, treść                      |
@@ -83,6 +85,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | team                 |                     | zespół                                |
 | template             | templatka           | szablon                               |
 | threshold            |                     | próg, poziom                          |
+| throughput           |                     | przepustowość, wydajność              |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
 | update               | apdejtować          | aktualizować                          |
@@ -90,6 +93,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | use case             |                     | przypadek użycia                      |
 | user                 |                     | użytkownik                            |
 | workaround           |                     | obejście                              |
+| wrapper              |                     | opakowanie                            |
 
 * _n_ - rzeczownik
 * _v_ - czasownik
