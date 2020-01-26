@@ -124,7 +124,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | template             | templatka           | szablon                               |
 | thread               |                     | wątek                                 |
 | threshold            |                     | próg, poziom                          |
-| throughput           |                     | przepustowość, wydajność              |
+| throughput           |                     | przepustowość                         |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
 | tool                 |                     | narzędzie                             |
