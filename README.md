@@ -13,7 +13,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 
 | angielski            | polskawy            | polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
-| anti-pattern         | antypattern         | antywzorzec, przeciwzorzec            |
+| anti-pattern         | antypattern         | antywzorzec                           |
 | approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
