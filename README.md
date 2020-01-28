@@ -82,6 +82,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | order (_n_)          |                     | (1) zlecenie (2) porządek, kolejność  |
 | order (_v_)          | orderować           | (1) zlecić (2) uporządkować           |
 | overhead             |                     | narzut                                |
+| overload (_v_)       |                     | przeciążyć                            |
+| override (_v_)       |                     | przesłonić                            |
 | paging               | paginacja           | stronicowanie                         |
 | patch                | paczować            | łatać, naprawiać                      |
 | pattern              |                     | wzorzec                               |
