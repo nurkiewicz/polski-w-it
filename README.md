@@ -46,6 +46,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | exception            |                     | wyjątek                               |
 | expire               | wyekspajerować      | wygasać, wygasnąć, utracić ważność    |
 | extend               | ekstendować         | rozszerzać                            |
+| external             |                     | zewnętrzny                            |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
 | fix (_n_)            | fiks                | poprawka                              |
@@ -60,6 +61,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | impact               |                     | wpływ                                 |
 | improvement          |                     | ulepszenie, poprawa                   |
 | inject (_v_)         | indżektować         | wstrzykiwać                           |
+| internal             | internalowy         | wewnętrzny                            |
 | invalidate           | zinwalidować        | unieważnić                            |
 | investigate          | inwestygować        | zbadać, badać, sprawdzić              |
 | issue                | isiu                | kwestia, problem                      |
