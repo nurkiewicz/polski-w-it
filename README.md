@@ -118,6 +118,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | setup (_n_)          |                     | konfiguracja                          |
 | setup (_v_)          | zsetapować          | zestawić                              |
 | share (_v_)          | szerować            | udostępnić                            |
+| side effect          |                     | efekt uboczny                         |
 | support              | saportować          | wspierać                              |
 | switch (_v_)         | słiczować           | przełączyć                            |
 | task                 |                     | zadanie                               |
