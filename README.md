@@ -16,6 +16,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
+| backup               |                     | kopia zapasowa, kopia bezpieczeństwa  |
 | bug                  |                     | błąd                                  |
 | bugfix (_n_)         |                     | poprawka                              |
 | build                | zbildować           | zbudować                              |
