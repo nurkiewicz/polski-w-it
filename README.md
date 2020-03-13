@@ -114,6 +114,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | sample               |                     | próbka, przykład                      |
 | save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
+| screenshot           | skrin               | zrzut ekranu                          |
 | scroll (_v_)         | skrolować           | przewijać                             |
 | service              |                     | usługa                                |
 | set (_n_)            |                     | zbiór                                 |
