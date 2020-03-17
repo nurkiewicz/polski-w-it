@@ -125,6 +125,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | side effect          |                     | efekt uboczny                         |
 | support              | saportować          | wspierać                              |
 | switch (_v_)         | słiczować           | przełączyć                            |
+| syntax               |                     | składnia                              |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
 | template             | templatka           | szablon                               |
