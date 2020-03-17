@@ -140,6 +140,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | usability            |                     | użyteczność                           |
 | use case             |                     | przypadek użycia                      |
 | user                 |                     | użytkownik                            |
+| vendor               |                     | dostawca                              |
 | warning              |                     | ostrzeżenie                           |
 | workaround           |                     | obejście                              |
 | zoom                 |                     | powiększenie, powiększać              |
