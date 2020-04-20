@@ -11,6 +11,11 @@ Bez ironii, bez korpomowy.
 Zachęcam do współudziału (ang. _contribution_).
 Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie tłumacząc na siłę.
 
+Zobacz też:
+
+* [polskie podkasty IT](https://github.com/hexmind/polish-it-podcasts)
+* [polskie konferencje IT](https://github.com/cezarypiatek/polish-it-conferences)
+
 | angielski            | polskawy            | polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
 | approve              | zaapruwować         | zaakceptować                          |
