@@ -76,6 +76,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | launch               |                     | uruchomić, wprowadzić na rynek        |
 | layout               |                     | układ (np. elementów interfejsu)      |
 | lifecycle            |                     | cykl życia                            |
+| limitation           | limitacja           | ograniczenie                          |
 | load-balancer        | lołd-balanser       |                                       |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
