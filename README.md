@@ -26,6 +26,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | cast                 | kastować            | rzutować                              |
 | clients              | klienci             | klienty                               |
 | cloud                |                     | chmura                                |
+| commit (_n_)         | komit               | wkład, pakiet zmian                   |
 | confirm              | konfirmować         | potwierdzić                           |
 | consistent           | konsystentny        | spójny                                |
 | content              |                     | zawartość, treść                      |
