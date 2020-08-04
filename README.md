@@ -4,7 +4,7 @@
 Krótki słowniczek pojęć w języku angielskim z okolic programowania oraz ich polskich odpowiedników.
 Co prawda nikt z nas nie mówi _rusztowanie sieciowe oparte o wstrzykiwanie ziaren_ czy [_ściana ognia_](https://www.youtube.com/watch?v=wFXLzr86MQ4&t=6).
 Ale już _customowy header na requeście_ można śmiało zastąpić _niestandardowym nagłówkiem żądania_.
-Po prostu czasem istnieje poprawne, polskie sformułownanie i nie ma powodu, żeby kaleczyć język.
+Po prostu czasem istnieje poprawne, polskie sformułowanie i nie ma powodu, żeby kaleczyć język.
 
 Ograniczamy się do pojęć z zakresu programowania.
 Bez ironii, bez korpomowy.
@@ -16,6 +16,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
+| backup               |                     | kopia zapasowa, kopia bezpieczeństwa  |
 | bug                  |                     | błąd                                  |
 | bugfix (_n_)         |                     | poprawka                              |
 | build                | zbildować           | zbudować                              |
@@ -24,6 +25,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | case                 |                     | przypadek                             |
 | cast                 | kastować            | rzutować                              |
 | clients              | klienci             | klienty                               |
+| cloud                |                     | chmura                                |
 | confirm              | konfirmować         | potwierdzić                           |
 | consistent           | konsystentny        | spójny                                |
 | content              |                     | zawartość, treść                      |
@@ -39,13 +41,18 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | device               |                     | urządzenie                            |
 | edge case            |                     | przypadek brzegowy                    |
 | error                |                     | błąd                                  |
+| estimate (_n_)       | estymata            | oszacowanie, szacunek                 |
+| estimate (_v_)       | estymować           | szacować                              |
 | event                |                     | zdarzenie, wydarzenie                 |
+| example              |                     | przykład                              |
 | exception            |                     | wyjątek                               |
 | expire               | wyekspajerować      | wygasać, wygasnąć, utracić ważność    |
 | extend               | ekstendować         | rozszerzać                            |
+| external             |                     | zewnętrzny                            |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
-| fix                  | fiksnąć             | poprawić                              |
+| fix (_n_)            | fiks                | poprawka                              |
+| fix (_v_)            | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
 | focus (_v_)          | sfocusować          | skupić się                            |
 | footer               |                     | stopka                                |
@@ -56,7 +63,9 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | impact               |                     | wpływ                                 |
 | improvement          |                     | ulepszenie, poprawa                   |
 | inject (_v_)         | indżektować         | wstrzykiwać                           |
+| internal             | internalowy         | wewnętrzny                            |
 | invalidate           | zinwalidować        | unieważnić                            |
+| investigate          | inwestygować        | zbadać, badać, sprawdzić              |
 | issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
 | label                |                     | etykieta                              |
@@ -64,6 +73,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | latency              |                     | opóźnienie                            |
 | launch               |                     | uruchomić, wprowadzić na rynek        |
 | layout               |                     | układ (np. elementów interfejsu)      |
+| lifecycle            |                     | cykl życia                            |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | meeting              |                     | spotkanie                             |
@@ -73,7 +83,13 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | mockup               |                     | makieta                               |
 | muted                | zmutowany           | wyciszony                             |
 | node                 |                     | węzeł                                 |
+| notification         |                     | powiadomienie                         |
+| notify               | notifajować         | powiadomić                            |
+| order (_n_)          |                     | (1) zlecenie (2) porządek, kolejność  |
+| order (_v_)          | orderować           | (1) zlecić (2) uporządkować           |
 | overhead             |                     | narzut                                |
+| overload (_v_)       |                     | przeciążyć                            |
+| override (_v_)       |                     | przesłonić                            |
 | paging               | paginacja           | stronicowanie                         |
 | patch                | paczować            | łatać, naprawiać                      |
 | pattern              |                     | wzorzec                               |
@@ -81,11 +97,13 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | permission           |                     | uprawnienie                           |
 | plugin               |                     | wtyczka                               |
 | pointer              |                     | wskaźnik                              |
-| portable             |                     | przenośny, portatywny                 |
-| process              | procesować          | przetwarzać                           |
+| portable             |                     | przenośny                             |
+| process (_v_)        | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
+| provider             |                     | dostawca                              |
 | random               | randomowy           | losowy, przypadkowy                   |
+| reactive             |                     | reaktywny                             |
 | reflection           |                     | refleksja                             |
 | release (_n_)        |                     | wydanie, wersja                       |
 | release (_v_)        | rilisować           | wydawać nową wersję                   |
@@ -100,14 +118,19 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | sample               |                     | próbka, przykład                      |
 | save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
+| screen               |                     | ekran                                 |
+| screenshot           | skrin               | zrzut ekranu                          |
+| scroll (_v_)         | skrolować           | przewijać                             |
 | service              |                     | usługa                                |
 | set (_n_)            |                     | zbiór                                 |
 | set (_v_)            | setować             | ustawiać                              |
 | setup (_n_)          |                     | konfiguracja                          |
 | setup (_v_)          | zsetapować          | zestawić                              |
 | share (_v_)          | szerować            | udostępnić                            |
+| side effect          |                     | efekt uboczny                         |
 | support              | saportować          | wspierać                              |
 | switch (_v_)         | słiczować           | przełączyć                            |
+| syntax               |                     | składnia                              |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
 | template             | templatka           | szablon                               |
@@ -115,14 +138,18 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | threshold            |                     | próg, poziom                          |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
+| tool                 |                     | narzędzie                             |
 | trigger (_v_)        | trigerować          | wyzwalać                              |
 | unit test            |                     | test jednostkowy                      |
+| unlock (_v_)         |                     | odblokować                            |
 | update               | apdejtować          | aktualizować                          |
 | usability            |                     | użyteczność                           |
 | use case             |                     | przypadek użycia                      |
 | user                 |                     | użytkownik                            |
+| vendor               |                     | dostawca                              |
 | warning              |                     | ostrzeżenie                           |
 | workaround           |                     | obejście                              |
+| zoom                 |                     | powiększenie, powiększać              |
 
 * _n_ - rzeczownik
 * _v_ - czasownik
