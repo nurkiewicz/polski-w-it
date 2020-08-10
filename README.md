@@ -98,7 +98,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | plugin               |                     | wtyczka                               |
 | pointer              |                     | wskaźnik                              |
 | portable             |                     | przenośny                             |
-| primary key          |                     | klucz główny                          |
+| primary key          |                     | klucz podstawowy, klucz główny        |
 | process (_v_)        | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
