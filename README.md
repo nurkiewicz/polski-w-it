@@ -21,6 +21,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | bugfix (_n_)         |                     | poprawka                              |
 | build                | zbildować           | zbudować                              |
 | button               |                     | przycisk, guzik                       |
+| callback             |                     | wywołanie zwrotne                     |
 | cancel               | kanselować, anulacja| anulować                              |
 | case                 |                     | przypadek                             |
 | cast                 | kastować            | rzutować                              |
