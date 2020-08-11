@@ -17,7 +17,6 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
 | backup               |                     | kopia zapasowa, kopia bezpieczeństwa  |
-| backend              | bakend              |                                       |
 | bug                  |                     | błąd                                  |
 | bugfix (_n_)         |                     | poprawka                              |
 | build                | zbildować           | zbudować                              |
@@ -76,8 +75,6 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | launch               |                     | uruchomić, wprowadzić na rynek        |
 | layout               |                     | układ (np. elementów interfejsu)      |
 | lifecycle            |                     | cykl życia                            |
-| limitation           | limitacja           | ograniczenie                          |
-| load-balancer        | lołd-balanser       |                                       |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | meeting              |                     | spotkanie                             |
@@ -107,7 +104,6 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
 | provider             |                     | dostawca                              |
-| proxy                | proksy              | serwis pośredniczący                  |
 | random               | randomowy           | losowy, przypadkowy                   |
 | reactive             |                     | reaktywny                             |
 | reflection           |                     | refleksja                             |
@@ -122,7 +118,6 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | rollback             |                     | wycofać, przywrócić                   |
 | round-robin          |                     | cyklicznie, w kolejności              |
 | rule (_n_)           | rulka               | reguła                                |
-| runtime              | rantajm             |                                       |
 | sample               |                     | próbka, przykład                      |
 | save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
