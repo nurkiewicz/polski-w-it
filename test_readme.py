@@ -24,7 +24,7 @@ def test_terms_are_sorted(readme):
 
 def test_columns_are_aligned(readme):
     def column_position(row):
-        return [m.start() for m in re.finditer('\|', row)]
+        return [m.start() for m in re.finditer('|', row)]
 
     column_position_in_each_line = [str(column_position(line)) for line in readme]
     assert len(set(column_position_in_each_line)) == 1
