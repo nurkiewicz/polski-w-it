@@ -69,6 +69,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | investigate          | inwestygować        | zbadać, badać, sprawdzić              |
 | issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
+| kernel               |                     | jądro                                 |
 | label                |                     | etykieta                              |
 | lag                  |                     | opóźnienie                            |
 | latency              |                     | opóźnienie                            |
