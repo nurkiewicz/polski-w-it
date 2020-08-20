@@ -1,4 +1,5 @@
-.Słowa, które trudno przetłumaczyć
+# Słowa, które trudno przetłumaczyć
+
 |===
 
 | English | Propozycje po polsku
