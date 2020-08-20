@@ -158,7 +158,6 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | vendor               |                     | dostawca                              |
 | warning              |                     | ostrzeżenie                           |
 | workaround           |                     | obejście                              |
-| wrapper              |                     | opakowanie                            |
 | zoom                 |                     | powiększenie, powiększać              |
 
 * _n_ - rzeczownik
