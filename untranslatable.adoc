@@ -1,0 +1,18 @@
+.Słowa, które trudno przetłumaczyć
+|===
+
+| English | Propozycje po polsku
+
+| bean
+| ziarno
+
+| commit
+| https://github.com/nurkiewicz/polski-w-it/pull/117[wkład, pakiet zmian]
+
+| framework
+|
+
+| push
+|
+
+|===
