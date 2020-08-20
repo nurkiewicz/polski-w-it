@@ -13,6 +13,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 
 | angielski            | polskawy            | polski                                |
 | :------------------- | :------------------ | :------------------------------------ |
+| anti-pattern         | antypattern         | antywzorzec                           |
 | approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
@@ -25,6 +26,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | cancel               | kanselować, anulacja| anulować                              |
 | case                 |                     | przypadek                             |
 | cast                 | kastować            | rzutować                              |
+| chart                |                     | wykres                                |
 | clients              | klienci             | klienty                               |
 | cloud                |                     | chmura                                |
 | confirm              | konfirmować         | potwierdzić                           |
@@ -142,6 +144,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | template             | templatka           | szablon                               |
 | thread               |                     | wątek                                 |
 | threshold            |                     | próg, poziom                          |
+| throughput           |                     | przepustowość                         |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
 | tool                 |                     | narzędzie                             |
@@ -155,6 +158,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | vendor               |                     | dostawca                              |
 | warning              |                     | ostrzeżenie                           |
 | workaround           |                     | obejście                              |
+| wrapper              |                     | opakowanie                            |
 | zoom                 |                     | powiększenie, powiększać              |
 
 * _n_ - rzeczownik
