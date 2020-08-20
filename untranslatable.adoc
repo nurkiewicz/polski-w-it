@@ -12,6 +12,12 @@
 | framework
 |
 
+| pull
+|
+
+| pull request
+|
+
 | push
 |
 
