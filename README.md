@@ -30,8 +30,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | chart                |                     | wykres                                |
 | clients              | klienci             | klienty                               |
 | cloud                |                     | chmura                                |
-| code review          | kodrewju            | przegląd kodu                         |
-| collaborate          | kolabować           | współpracować                         |
+| code review          |                     | przegląd kodu                         |
+| collaborate          |                     | współpracować                         |
 | confirm              | konfirmować         | potwierdzić                           |
 | consistent           | konsystentny        | spójny                                |
 | content              |                     | zawartość, treść                      |
@@ -39,6 +39,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | corner case          |                     | przypadek szczególny                  |
 | credentials          | kredensziale        | poświadczenia                         |
 | custom               | kastomowy           | specjalny, nietypowy, niestandardowy  |
+| decryption           |                     | deszyfrowanie                         |
 | default              | difoltowo           | domyślnie                             |
 | dependency           | dependencja         | zależność                             |
 | deploy               | zdiplojować         | wdrożyć                               |
@@ -46,18 +47,16 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | developer            |                     | programista                           |
 | device               |                     | urządzenie                            |
 | edge case            |                     | przypadek brzegowy                    |
-| embed                | embedować           | zawierać                              |
-| encapsulation        | enkapsulacja        | kapsułkowanie                         |
+| embed                |                   | zawierać                              |
 | encryption           | enkrypcja           | szyfrowanie                           |
 | error                |                     | błąd                                  |
 | estimate (_n_)       | estymata            | oszacowanie, szacunek                 |
-| estimate (__v__)     | estymować           | (o)szacować                           |
+| estimate (_v_)       | estymować           | (o)szacować                           |
 | example              |                     | przykład                              |
 | exception            |                     | wyjątek                               |
 | expire               | wyekspajerować      | wygasać, wygasnąć, utracić ważność    |
 | extend               | ekstendować         | rozszerzać                            |
 | external             |                     | zewnętrzny                            |
-| fail                 | sfailować           | zawieść                               |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
 | fix (_n_)            | fiks                | poprawka                              |
@@ -67,11 +66,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | footer               |                     | stopka                                |
 | foreign key          |                     | klucz obcy                            |
 | form                 | formatka            | formularz                             |
-| guide (_v_)          | zgajdować           | kierować, prowadzić                   |
 | handle (_v_)         | handlować           | obsłużyć                              |
 | header               |                     | nagłówek                              |
-| human resources (HR) | ha er               | dział kadr                            |
-| impact               | impakt              | wpływ                                 |
 | improvement          |                     | ulepszenie, poprawa                   |
 | include              | zainkludować        | zawierać                              |
 | inject (_v_)         | indżektować         | wstrzykiwać                           |
@@ -91,7 +87,6 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | limitation           | limitacja           | ograniczenie                          |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
-| meeting              | mityng              | spotkanie                             |
 | member               |                     | członek, uczestnik (np. klastra)      |
 | memory leak          |                     | wyciek pamięci                        |
 | message              |                     | wiadomość                             |
@@ -124,7 +119,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | reflection           |                     | refleksja                             |
 | release (_n_)        |                     | wydanie, wersja                       |
 | release (_v_)        | rilisować           | wydawać nową wersję                   |
-| remote               | rimołt              | zdalnie                               |
+| remote               |                     | zdalnie, zdalny                       |
 | rename               | zrinejmować         | zmienić nazwę                         |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
@@ -147,12 +142,9 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | setup (_v_)          | zsetapować          | zestawić                              |
 | share (_v_)          | szerować            | udostępnić, dzielić                   |
 | side effect          |                     | efekt uboczny                         |
-| skill                | skil                | umiejętność                           |
 | support              | saportować          | wspierać                              |
 | switch (_v_)         | słiczować           | przełączyć                            |
 | syntax               |                     | składnia                              |
-| talk (_n_)           |                     | prezentacja, rozmowa                  |
-| target               |                     | cel                                   |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
 | template             | templatka           | szablon                               |
