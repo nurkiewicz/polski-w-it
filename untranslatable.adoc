@@ -1,8 +1,8 @@
 # Słowa, które trudno przetłumaczyć
 
+[options="header"]
 |===
-
-| English | Propozycje po polsku
+| Angielski | Propozycje po polsku
 
 | bean
 | ziarno
