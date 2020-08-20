@@ -15,6 +15,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | :------------------- | :------------------ | :------------------------------------ |
 | anti-pattern         | antypattern         | antywzorzec                           |
 | approve              | zaapruwować         | zaakceptować                          |
+| asynchronous         | asynk               | asynchroniczny                        |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
 | backup               |                     | kopia zapasowa, kopia bezpieczeństwa  |
@@ -29,6 +30,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | chart                |                     | wykres                                |
 | clients              | klienci             | klienty                               |
 | cloud                |                     | chmura                                |
+| code review          | kodrewju            | przegląd kodu                         |
+| collaborate          | kolabować           | współpracować                         |
 | confirm              | konfirmować         | potwierdzić                           |
 | consistent           | konsystentny        | spójny                                |
 | content              |                     | zawartość, treść                      |
@@ -43,15 +46,18 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | developer            |                     | programista                           |
 | device               |                     | urządzenie                            |
 | edge case            |                     | przypadek brzegowy                    |
+| embed                | embedować           | zawierać                              |
+| encapsulation        | enkapsulacja        | kapsułkowanie                         |
+| encryption           | enkrypcja           | szyfrowanie                           |
 | error                |                     | błąd                                  |
 | estimate (_n_)       | estymata            | oszacowanie, szacunek                 |
-| estimate (_v_)       | estymować           | szacować                              |
-| event                |                     | zdarzenie, wydarzenie                 |
+| estimate (__v__)     | estymować           | (o)szacować                           |
 | example              |                     | przykład                              |
 | exception            |                     | wyjątek                               |
 | expire               | wyekspajerować      | wygasać, wygasnąć, utracić ważność    |
 | extend               | ekstendować         | rozszerzać                            |
 | external             |                     | zewnętrzny                            |
+| fail                 | sfailować           | zawieść                               |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
 | fix (_n_)            | fiks                | poprawka                              |
@@ -61,10 +67,13 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | footer               |                     | stopka                                |
 | foreign key          |                     | klucz obcy                            |
 | form                 | formatka            | formularz                             |
+| guide (_v_)          | zgajdować           | kierować, prowadzić                   |
 | handle (_v_)         | handlować           | obsłużyć                              |
 | header               |                     | nagłówek                              |
-| impact               |                     | wpływ                                 |
+| human resources (HR) | ha er               | dział kadr                            |
+| impact               | impakt              | wpływ                                 |
 | improvement          |                     | ulepszenie, poprawa                   |
+| include              | zainkludować        | zawierać                              |
 | inject (_v_)         | indżektować         | wstrzykiwać                           |
 | internal             | internalowy         | wewnętrzny                            |
 | invalidate           | zinwalidować        | unieważnić                            |
@@ -77,11 +86,12 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | latency              |                     | opóźnienie                            |
 | launch               |                     | uruchomić, wprowadzić na rynek        |
 | layout               |                     | układ (np. elementów interfejsu)      |
+| leader               | lider               | kierownik (np. zespołu)               |
 | lifecycle            |                     | cykl życia                            |
 | limitation           | limitacja           | ograniczenie                          |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
-| meeting              |                     | spotkanie                             |
+| meeting              | mityng              | spotkanie                             |
 | member               |                     | członek, uczestnik (np. klastra)      |
 | memory leak          |                     | wyciek pamięci                        |
 | message              |                     | wiadomość                             |
@@ -114,6 +124,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | reflection           |                     | refleksja                             |
 | release (_n_)        |                     | wydanie, wersja                       |
 | release (_v_)        | rilisować           | wydawać nową wersję                   |
+| remote               | rimołt              | zdalnie                               |
 | rename               | zrinejmować         | zmienić nazwę                         |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
@@ -134,11 +145,14 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | set (_v_)            | setować             | ustawiać                              |
 | setup (_n_)          |                     | konfiguracja                          |
 | setup (_v_)          | zsetapować          | zestawić                              |
-| share (_v_)          | szerować            | udostępnić                            |
+| share (_v_)          | szerować            | udostępnić, dzielić                   |
 | side effect          |                     | efekt uboczny                         |
+| skill                | skil                | umiejętność                           |
 | support              | saportować          | wspierać                              |
 | switch (_v_)         | słiczować           | przełączyć                            |
 | syntax               |                     | składnia                              |
+| talk (_n_)           |                     | prezentacja, rozmowa                  |
+| target               |                     | cel                                   |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
 | template             | templatka           | szablon                               |
