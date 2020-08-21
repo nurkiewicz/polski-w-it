@@ -47,7 +47,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | developer            |                     | programista                           |
 | device               |                     | urządzenie                            |
 | edge case            |                     | przypadek brzegowy                    |
-| embed                |                   | zawierać                              |
+| embed                |                     | zawierać                              |
 | encryption           | enkrypcja           | szyfrowanie                           |
 | error                |                     | błąd                                  |
 | estimate (_n_)       | estymata            | oszacowanie, szacunek                 |
@@ -59,6 +59,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | external             |                     | zewnętrzny                            |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
+| field                |                     | pole                                  |
 | fix (_n_)            | fiks                | poprawka                              |
 | fix (_v_)            | fiksnąć             | poprawić                              |
 | flow                 |                     | przepływ                              |
