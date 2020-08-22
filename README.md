@@ -29,6 +29,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | cast                 | kastować            | rzutować                              |
 | chart                |                     | wykres                                |
 | clients              | klienci             | klienty                               |
+| closure              |                     | domknięcie                            |
 | cloud                |                     | chmura                                |
 | code review          |                     | przegląd kodu                         |
 | collaborate          |                     | współpracować                         |
