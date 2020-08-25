@@ -1,5 +1,5 @@
-image::https://travis-ci.org/nurkiewicz/polski-w-it.svg?branch=master[link=https://travis-ci.org/nurkiewicz/polski-w-it]
-image::https://img.shields.io/badge/License-Apache%202.0-blue.svg[link=https://opensource.org/licenses/Apache-2.0]
+image:https://travis-ci.org/nurkiewicz/polski-w-it.svg?branch=master[link=https://travis-ci.org/nurkiewicz/polski-w-it]
+image:https://img.shields.io/badge/License-Apache%202.0-blue.svg[link=https://opensource.org/licenses/Apache-2.0]
 
 Krótki słowniczek pojęć w języku angielskim z okolic programowania oraz ich polskich odpowiedników.
 Co prawda nikt z nas nie mówi _rusztowanie sieciowe oparte o wstrzykiwanie ziaren_ czy https://www.youtube.com/watch?v=wFXLzr86MQ4&t=6[_ściana ognia_].
