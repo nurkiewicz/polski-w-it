@@ -55,6 +55,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | przycisk, guzik
 
+| cache
+|
+| pamięc podręczna
+
 | callback
 |
 | wywołanie zwrotne
