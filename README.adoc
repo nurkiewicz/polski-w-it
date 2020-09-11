@@ -139,6 +139,14 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | zdeprykacjonowany
 | przestarzały
 
+| design (_n_)
+|
+| projekt
+
+| design (_v_)
+|
+| projektować
+
 | developer
 |
 | programista
