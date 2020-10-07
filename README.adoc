@@ -627,6 +627,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | narzędzie
 
+| track (_v_)
+|
+| śledzić
+
 | trigger (_v_)
 | trigerować
 | wyzwalać
