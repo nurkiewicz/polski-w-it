@@ -323,6 +323,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | limitacja
 | ograniczenie
 
+| load (_v_)
+|
+| ładować, otwierać
+
 | lock
 | zalokować
 | zablokować
