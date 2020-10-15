@@ -95,6 +95,14 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | konfirmować
 | potwierdzić
 
+| connect
+| konektować
+| połączyć
+
+| connection
+|
+| połączenie
+
 | consistent
 | konsystentny
 | spójny
