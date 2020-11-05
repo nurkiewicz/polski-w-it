@@ -331,6 +331,14 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | obiad, tyle że w Warszawie
 
+| maintain
+|
+| utrzymywać
+
+| maintenance
+|
+| utrzymanie
+
 | member
 |
 | członek, uczestnik (np. klastra)
