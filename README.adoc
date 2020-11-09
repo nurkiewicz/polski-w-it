@@ -112,7 +112,7 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | przypadek szczególny
 
 | credentials
-| kredensziale
+| kredensziale, kredencjały
 | poświadczenia
 
 | custom
