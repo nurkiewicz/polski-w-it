@@ -655,6 +655,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | obejście
 
+| zip (_v_)
+| zipować
+| (s)kompresować, (s)pakować
+
 | zoom
 |
 | powiększenie, powiększać
