@@ -443,6 +443,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | dostawca
 
+| query (_n_)
+|
+| zapytanie
+
 | random
 | randomowy
 | losowy, przypadkowy
