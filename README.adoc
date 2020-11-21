@@ -75,6 +75,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | wykres
 
+| checkbox
+| czekboks
+| pole wyboru
+
 | clients
 | klienci
 | klienty
