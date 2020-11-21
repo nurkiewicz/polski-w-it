@@ -347,6 +347,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | wiadomość
 
+| message broker
+|
+| pośrednik komunikatów
+
 | metric
 | metryka
 | miara
