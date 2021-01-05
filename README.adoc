@@ -543,6 +543,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | setować
 | ustawiać
 
+| settings
+|
+| ustawienia
+
 | setup (_n_)
 |
 | konfiguracja
