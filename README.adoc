@@ -203,6 +203,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | zewnętrzny
 
+| facilitate
+| facylitować
+| ułatwiać, upraszczać, wspierać
+
 | feature
 | ficzer
 | funkcja
