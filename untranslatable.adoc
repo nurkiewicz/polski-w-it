@@ -8,7 +8,7 @@
 | https://github.com/nurkiewicz/polski-w-it/pull/12[ziarno]
 
 | commit
-| https://github.com/nurkiewicz/polski-w-it/pull/117[wkład, pakiet zmian]
+| https://github.com/nurkiewicz/polski-w-it/pull/117[wkład, pakiet zmian], https://github.com/nurkiewicz/polski-w-it/pull/145/files[popełnić]
 
 | custom
 | https://github.com/nurkiewicz/polski-w-it/pull/34[dostosowany]
