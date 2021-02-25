@@ -1,5 +1,7 @@
 # Słowa, które trudno przetłumaczyć
 
+Poniższe słowa nie posiadają dobrego odpowiednika w języku polskim i nie próbujemy ich tłumaczyć, zgodnie z CONTRIBUTING.md[zasadami tego słownika].
+
 [options="header"]
 |===
 | Angielski | Propozycje po polsku
@@ -9,9 +11,6 @@
 
 | commit
 | https://github.com/nurkiewicz/polski-w-it/pull/117[wkład, pakiet zmian], https://github.com/nurkiewicz/polski-w-it/pull/145/files[popełnić]
-
-| custom
-| https://github.com/nurkiewicz/polski-w-it/pull/34[dostosowany]
 
 | framework
 | https://github.com/nurkiewicz/polski-w-it/pull/15[platforma programistyczna]
