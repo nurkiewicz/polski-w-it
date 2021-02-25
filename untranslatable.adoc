@@ -9,6 +9,9 @@ Poniższe słowa nie posiadają dobrego odpowiednika w języku polskim i nie pr�
 | bean
 | https://github.com/nurkiewicz/polski-w-it/pull/12[ziarno]
 
+| branch
+| https://github.com/nurkiewicz/polski-w-it/pull/118[gałąź]
+
 | commit
 | https://github.com/nurkiewicz/polski-w-it/pull/117[wkład, pakiet zmian], https://github.com/nurkiewicz/polski-w-it/pull/145/files[popełnić]
 
@@ -20,6 +23,9 @@ Poniższe słowa nie posiadają dobrego odpowiednika w języku polskim i nie pr�
 
 | legacy
 | https://github.com/nurkiewicz/polski-w-it/pull/144[spuścizna]
+
+| pipeline
+| https://github.com/nurkiewicz/polski-w-it/pull/90[ścieżka wdrożenia]
 
 | pull
 |
