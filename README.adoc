@@ -1,4 +1,4 @@
-image:https://github.com/nurkiewicz/polski-w-it/actions/workflows/python-pytest.yml/badge.svg[https://github.com/nurkiewicz/polski-w-it/actions/workflows/python-pytest.yml]
+image:https://github.com/nurkiewicz/polski-w-it/actions/workflows/python-pytest.yml/badge.svg[link=https://github.com/nurkiewicz/polski-w-it/actions/workflows/python-pytest.yml]
 image:https://img.shields.io/badge/License-Apache%202.0-blue.svg[link=https://opensource.org/licenses/Apache-2.0]
 
 Krótki słowniczek pojęć w języku angielskim z okolic programowania oraz ich polskich odpowiedników.
