@@ -19,6 +19,9 @@
 | garbage collector
 | https://github.com/nurkiewicz/polski-w-it/pull/19[odśmiecacz (pamięci)]
 
+| legacy
+| https://github.com/nurkiewicz/polski-w-it/pull/144[spuścizna]
+
 | pull
 |
 
