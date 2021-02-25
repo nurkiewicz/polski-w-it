@@ -463,6 +463,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | zapytanie
 
+| queue
+| https://www.youtube.com/watch?v=0V9Ua538jMI&t=3m45s[kłełełe]
+| kolejka
+
 | random
 | randomowy
 | losowy, przypadkowy
