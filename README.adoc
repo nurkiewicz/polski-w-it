@@ -15,6 +15,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |===
 | angielski | polskawy | polski
 
+| agile (_a_)
+| edżajlowy
+| zwinny
+
 | anti-pattern
 | antypattern
 | antywzorzec
