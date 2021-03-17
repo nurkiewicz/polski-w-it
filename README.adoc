@@ -495,6 +495,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | rilisować
 | wydawać nową wersję
 
+| reload (_v_)
+|
+| przeładować
+
 | remote
 |
 | zdalnie, zdalny
