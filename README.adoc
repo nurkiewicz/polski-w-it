@@ -59,6 +59,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | przycisk, guzik
 
+| bypass
+|
+| obejście
+
 | cache
 |
 | pamięc podręczna
