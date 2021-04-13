@@ -543,6 +543,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | rewiułować
 | przejrzeć
 
+| roadmap
+| mapa drogowa
+| plan, plan prac
+
 | rollback
 |
 | wycofać, przywrócić
