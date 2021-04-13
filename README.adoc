@@ -179,6 +179,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | urządzenie
 
+| disable
+| disejblować
+| wyłączyć
+
 | edge case
 |
 | przypadek brzegowy
@@ -190,6 +194,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | encryption
 | enkrypcja
 | szyfrowanie
+
+| enable
+| enejblować
+| włączyć
 
 | error
 |
