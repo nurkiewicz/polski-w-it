@@ -219,6 +219,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | wyjątek
 
+| execution
+| egzekucja
+| wykonani, uruchomienie
+
 | expire
 | wyekspajerować
 | wygasać, wygasnąć, utracić ważność
