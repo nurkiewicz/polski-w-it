@@ -772,6 +772,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | trigerować
 | wyzwalać
 
+| tuple
+| tupla, tapla
+| krotka
+
 | typo
 |
 | literówka
