@@ -32,7 +32,7 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | asynchroniczny
 
 | authentication
-| autentykacja
+| autentykacja, autentyfikacja
 | uwierzytelnienie (!)
 
 | authorization
