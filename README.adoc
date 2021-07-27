@@ -628,6 +628,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | efekt uboczny
 
+| solution
+| solucja
+| rozwiązanie
+
 | source
 |
 | źródło
