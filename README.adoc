@@ -107,6 +107,10 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 |
 | współpracować
 
+| concurrent
+| konkurentny, konkurencyjny
+| współbieżny
+
 | confirm
 | konfirmować
 | potwierdzić
@@ -118,10 +122,6 @@ Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tł
 | connection
 |
 | połączenie
-
-| concurrent
-| konkurentny, konkurencyjny
-| współbieżny
 
 | consistent
 | konsystentny
