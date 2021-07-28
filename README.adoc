@@ -108,6 +108,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | współpracować
 
+| concurrent
+| konkurentny, konkurencyjny
+| współbieżny
+
 | confirm
 | konfirmować
 | potwierdzić
@@ -119,10 +123,6 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | connection
 |
 | połączenie
-
-| concurrent
-| konkurentny, konkurencyjny
-| współbieżny
 
 | consistent
 | konsystentny
