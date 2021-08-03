@@ -755,6 +755,6 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |===
 
 
-* _a_ - przypmiotnik
+* _a_ - przymiotnik
 * _n_ - rzeczownik
 * _v_ - czasownik
