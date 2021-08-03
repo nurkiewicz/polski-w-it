@@ -84,6 +84,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | kastować
 | rzutować
 
+| CD
+| 
+| ciągłe dostarczanie/wdrażanie
+
 | chart
 |
 | wykres
@@ -283,6 +287,14 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | header
 |
 | nagłówek
+
+| hotfix
+|
+| szybka poprawka, aktualizacja
+
+| IDE
+|
+| zintegrowane środowisko programistyczne
 
 | image
 |
@@ -588,6 +600,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | skrolować
 | przewijać
 
+| secret key
+|
+| tajny klucz (np. API)
+
 | service
 |
 | usługa
@@ -683,6 +699,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | trigger (_v_)
 | trigerować
 | wyzwalać
+
+| typo
+|
+| literówka
 
 | unit test
 |
