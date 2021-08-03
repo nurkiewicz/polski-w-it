@@ -16,7 +16,7 @@ def english_term(row):
 def test_terms_are_sorted(readme):
     all_english_terms = [tup[1][1:].strip() for tup in zip(readme, readme[1:])
                          if tup[0].strip() == '' and tup[1].startswith('| ')]
-    assert list(all_english_terms) == sorted(all_english_terms)
+    assert list(all_english_terms) == sorted(all_english_terms , key=str.lower)
 
 
 def test_does_not_contain_untranslateble_words(readme):
