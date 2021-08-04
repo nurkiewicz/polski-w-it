@@ -84,6 +84,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | kastować
 | rzutować
 
+| CD
+|
+| ciągłe dostarczanie/wdrażanie
+
 | chart
 |
 | wykres
