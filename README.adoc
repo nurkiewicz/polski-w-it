@@ -368,6 +368,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | zalokować
 | zablokować
 
+| loop
+|
+| pętla
+
 | lunch
 |
 | obiad, tyle że w Warszawie
