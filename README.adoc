@@ -404,6 +404,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | obiad, tyle że w Warszawie
 
+| merge
+| zmergować
+| scalić
+
 | member
 |
 | członek, uczestnik (np. klastra)
