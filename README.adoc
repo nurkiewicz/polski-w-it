@@ -120,6 +120,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | konkurentny, konkurencyjny
 | współbieżny
 
+| concurrently
+| konkurentnie, konkurencyjnie
+| współbieżnie
+
 | confirm
 | konfirmować
 | potwierdzić
