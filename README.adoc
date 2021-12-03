@@ -452,6 +452,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | paginacja
 | stronicowanie
 
+| parallel (_a_)
+| paralelnie
+| równolegle
+
 | patch
 | paczować
 | łatać, naprawiać
