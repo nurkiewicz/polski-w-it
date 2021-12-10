@@ -576,6 +576,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | odpowiedź
 
+| restore (_v_)
+|
+| przywrócić, odtworzyć
+
 | review
 | rewiułować
 | przejrzeć
