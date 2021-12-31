@@ -684,6 +684,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | źródło
 
+| step
+|
+| krok
+
 | stream
 |
 | strumień
