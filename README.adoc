@@ -440,6 +440,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | notifajować
 | powiadomić
 
+| object
+|
+| obiekt
+
 | order (_n_)
 |
 | (1) zlecenie (2) porządek, kolejność
