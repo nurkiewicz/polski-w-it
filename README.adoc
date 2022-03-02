@@ -56,6 +56,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | kopia zapasowa, kopia bezpieczeństwa
 
+| bottleneck
+| botylnek
+| wąskie gardło, wąski przekrój
+
 | bug
 |
 | błąd
@@ -78,7 +82,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 
 | cache
 |
-| pamięc podręczna
+| pamięć podręczna
 
 | callback
 |
