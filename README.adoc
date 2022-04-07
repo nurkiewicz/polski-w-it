@@ -472,6 +472,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | paralelnie
 | równolegle
 
+| parent
+|
+| rodzic
+
 | patch
 | paczować
 | łatać, naprawiać
