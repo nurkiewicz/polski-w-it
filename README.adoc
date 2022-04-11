@@ -380,6 +380,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | lider
 | kierownik (np. zespołu)
 
+| library
+|
+| biblioteka
+
 | lifecycle
 |
 | cykl życia
