@@ -57,8 +57,8 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | kopia zapasowa, kopia bezpieczeństwa
 
 | bottleneck
-| botylnek
-| wąskie gardło, wąski przekrój
+| 
+| wąskie gardło
 
 | bug
 |
