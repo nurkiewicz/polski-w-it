@@ -16,6 +16,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |===
 | angielski | polskawy | polski
 
+| agents
+| agenci
+| agenty
+
 | agile (_a_)
 | edżajlowy
 | zwinny
