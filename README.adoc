@@ -722,7 +722,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 
 | support
 | saportować
-| wspierać
+| (1) obsługiwać (2) wspierać
 
 | switch (_v_)
 | słiczować
