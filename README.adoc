@@ -812,6 +812,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | użytkownik
 
+| user experience
+| juser ekspiriens
+| doznania użytkownika
+
 | vendor
 |
 | dostawca
