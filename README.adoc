@@ -260,6 +260,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | estymować
 | (o)szacować
 
+| event
+|
+| zdarzenie
+
 | example
 |
 | przykład
