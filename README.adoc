@@ -624,6 +624,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | przywrócić, odtworzyć
 
+| revert
+| riwertować
+| przywracać
+
 | review
 | rewiułować
 | przejrzeć
