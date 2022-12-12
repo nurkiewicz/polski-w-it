@@ -652,6 +652,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | (za)sejwować
 | zapisać
 
+| schedule (_n_)
+| 
+| harmonogram
+
 | schedule (_v_)
 | zaskedżulować
 | zaplanować
