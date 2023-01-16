@@ -208,6 +208,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | projektować
 
+| detect (_v_)
+|
+| wykrywać
+
 | developer
 |
 | programista
@@ -255,6 +259,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | estimate (_v_)
 | estymować
 | (o)szacować
+
+| event
+|
+| zdarzenie
 
 | event store
 |
@@ -656,7 +664,11 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | (za)sejwować
 | zapisać
 
-| schedule
+| schedule (_n_)
+| 
+| harmonogram
+
+| schedule (_v_)
 | zaskedżulować
 | zaplanować
 
@@ -724,6 +736,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | źródło
 
+| stack
+|
+| stos
+
 | step
 |
 | krok
@@ -734,7 +750,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 
 | support
 | saportować
-| wspierać
+| _(1)_ obsługiwać, _(2)_ wspierać
 
 | switch (_v_)
 | słiczować
