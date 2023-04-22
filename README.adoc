@@ -181,7 +181,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | specjalny, nietypowy, niestandardowy
 
 | decryption
-|
+| dekrypcja
 | deszyfrowanie
 
 | default
