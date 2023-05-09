@@ -164,7 +164,11 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | zawartość, treść
 
-| core
+| core (_a_)
+| korowy
+| główny, najbardziej istotny
+
+| core (_n_)
 |
 | rdzeń
 
