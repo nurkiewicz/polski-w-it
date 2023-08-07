@@ -66,7 +66,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 
 | breadcrumb
 | 
-| nawigacja okruszkowa
+| ścieżka nawigacji
 
 | bug
 |
