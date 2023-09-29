@@ -540,10 +540,6 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | wtyczka
 
-| proof of concept / poc
-|
-| prototyp
-
 | pointer
 |
 | wskaźnik
@@ -567,6 +563,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | progress
 |
 | postęp
+
+| proof of concept / poc
+|
+| prototyp
 
 | property
 | propercja
