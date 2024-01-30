@@ -688,6 +688,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | wycofać, przywrócić
 
+| router
+|
+| trasownik
+
 | round-robin
 |
 | cyklicznie, w kolejności
