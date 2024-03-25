@@ -236,6 +236,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | odłączyć/odłączać
 
+| draft (_n_)
+|
+| szkic, wersja robocza
+
 | edge case
 |
 | przypadek brzegowy
