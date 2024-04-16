@@ -244,6 +244,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | przypadek brzegowy
 
+| privilege elevation
+| elewacja uprawnień
+| podniesienie uprawnień
+
 | embed
 |
 | zawierać, osadzić
