@@ -36,7 +36,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | zaapruwować
 | zaakceptować
 
-| asset
+| asset (_n_)
 |
 | zasób
 
