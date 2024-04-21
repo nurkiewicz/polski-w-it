@@ -6,6 +6,8 @@ Co prawda nikt z nas nie mówi _rusztowanie sieciowe oparte o wstrzykiwanie ziar
 Ale już _customowy header na requeście_ można śmiało zastąpić _niestandardowym nagłówkiem żądania_.
 Po prostu czasem istnieje poprawne, polskie sformułowanie i nie ma powodu, żeby kaleczyć język.
 
+Contributing
+============
 Ograniczamy się do pojęć z zakresu IT.
 Bez ironii, bez korpomowy.
 Zachęcam do współudziału (ang. _contribution_).
