@@ -12,6 +12,12 @@ Zachęcam do współudziału (ang. _contribution_).
 Znaczy https://github.com/nurkiewicz/polski-w-it/pulls[pull requestów], nie tłumacząc na siłę.
 Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia, to prawdopodobnie https://github.com/nurkiewicz/polski-w-it/blob/master/untranslatable.adoc[nie istnieje].
 
+Notatki:
+
+* _a_ - przymiotnik
+* _n_ - rzeczownik
+* _v_ - czasownik
+
 [options="header"]
 |===
 | angielski | polskawy | polski
@@ -895,6 +901,3 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |===
 
 
-* _a_ - przymiotnik
-* _n_ - rzeczownik
-* _v_ - czasownik
