@@ -32,7 +32,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | antypatern
 | antywzorzec
 
-| approve
+| approve (_v_)
 | zaapruwować
 | zaakceptować
 
