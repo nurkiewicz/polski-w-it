@@ -44,7 +44,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | asynk
 | asynchroniczny
 
-| authentication
+| authentication (_n_)
 | autentykacja, autentyfikacja
 | uwierzytelnienie (!)
 
