@@ -28,7 +28,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | odpowiedź
 
-| anti-pattern
+| anti-pattern (_n_)
 | antypatern
 | antywzorzec
 
