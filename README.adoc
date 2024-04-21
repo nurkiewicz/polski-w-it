@@ -16,7 +16,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |===
 | angielski | polskawy | polski
 
-| agents
+| agents (_n_)
 | agenci
 | agenty
 
