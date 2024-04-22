@@ -56,7 +56,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | tło, w tle
 
-| backup
+| backup (_n_)
 |
 | kopia zapasowa, kopia bezpieczeństwa
 
