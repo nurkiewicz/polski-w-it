@@ -96,7 +96,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | kanselować, anulacja
 | anulować
 
-| case
+| case (_n_)
 |
 | przypadek
 
