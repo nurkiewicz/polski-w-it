@@ -16,7 +16,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |===
 | angielski | polskawy | polski
 
-| agents
+| agents (_n_)
 | agenci
 | agenty
 
@@ -24,31 +24,31 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | edżajlowy
 | zwinny
 
-| answer
+| answer (_n_)
 |
 | odpowiedź
 
-| anti-pattern
+| anti-pattern (_n_)
 | antypatern
 | antywzorzec
 
-| approve
+| approve (_v_)
 | zaapruwować
 | zaakceptować
 
-| asset
+| asset (_n_)
 |
 | zasób
 
-| asynchronous
+| asynchronous (_a_)
 | asynk
 | asynchroniczny
 
-| authentication
+| authentication (_n_)
 | autentykacja, autentyfikacja
 | uwierzytelnienie (!)
 
-| authorization
+| authorization (_n_)
 |
 | autoryzacja
 
@@ -56,11 +56,11 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | tło, w tle
 
-| backup
+| backup (_n_)
 |
 | kopia zapasowa, kopia bezpieczeństwa
 
-| bottleneck
+| bottleneck (_n_)
 | 
 | wąskie gardło
 
@@ -96,7 +96,7 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | kanselować, anulacja
 | anulować
 
-| case
+| case (_n_)
 |
 | przypadek
 
@@ -243,6 +243,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | edge case
 |
 | przypadek brzegowy
+
+| elevation
+| elewacja (uprawnień)
+| podniesienie (uprawnień)
 
 | embed
 |
@@ -424,6 +428,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | lider
 | kierownik (np. zespołu)
 
+| leak
+|
+| wyciek
+
 | library
 |
 | biblioteka
@@ -511,6 +519,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | override (_v_)
 |
 | przesłonić
+
+| owner (_n_)
+|
+| właściciel
 
 | paging
 | paginacja
@@ -795,6 +807,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | template
 | templatka
 | szablon
+
+| theme
+|
+| motyw
 
 | thread
 |
