@@ -22,7 +22,7 @@ Notatki:
 |===
 | angielski | polskawy | polski
 
-| agents
+| agents (_n_)
 | agenci
 | agenty
 
@@ -30,31 +30,31 @@ Notatki:
 | edżajlowy
 | zwinny
 
-| answer
+| answer (_n_)
 |
 | odpowiedź
 
-| anti-pattern
+| anti-pattern (_n_)
 | antypatern
 | antywzorzec
 
-| approve
+| approve (_v_)
 | zaapruwować
 | zaakceptować
 
-| asset
+| asset (_n_)
 |
 | zasób
 
-| asynchronous
+| asynchronous (_a_)
 | asynk
 | asynchroniczny
 
-| authentication
+| authentication (_n_)
 | autentykacja, autentyfikacja
 | uwierzytelnienie (!)
 
-| authorization
+| authorization (_n_)
 |
 | autoryzacja
 
@@ -62,11 +62,11 @@ Notatki:
 |
 | tło, w tle
 
-| backup
+| backup (_n_)
 |
 | kopia zapasowa, kopia bezpieczeństwa
 
-| bottleneck
+| bottleneck (_n_)
 | 
 | wąskie gardło
 
@@ -102,7 +102,7 @@ Notatki:
 | kanselować, anulacja
 | anulować
 
-| case
+| case (_n_)
 |
 | przypadek
 
@@ -249,6 +249,10 @@ Notatki:
 | edge case
 |
 | przypadek brzegowy
+
+| elevation
+| elewacja (uprawnień)
+| podniesienie (uprawnień)
 
 | embed
 |
@@ -430,6 +434,10 @@ Notatki:
 | lider
 | kierownik (np. zespołu)
 
+| leak
+|
+| wyciek
+
 | library
 |
 | biblioteka
@@ -517,6 +525,10 @@ Notatki:
 | override (_v_)
 |
 | przesłonić
+
+| owner (_n_)
+|
+| właściciel
 
 | paging
 | paginacja
@@ -801,6 +813,10 @@ Notatki:
 | template
 | templatka
 | szablon
+
+| theme
+|
+| motyw
 
 | thread
 |
