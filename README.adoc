@@ -348,6 +348,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | formatka
 | formularz
 
+| gradual
+|
+| stopniowo
+
 | handle (_v_)
 | handlować
 | obsłużyć
