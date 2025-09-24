@@ -448,6 +448,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | limitacja
 | ograniczenie
 
+| to lint
+|
+| odkłaczać
+
 | load (_v_)
 |
 | ładować, otwierać
