@@ -24,6 +24,9 @@ Poniższe słowa nie posiadają dobrego odpowiednika w języku polskim i nie pr�
 | legacy
 | https://github.com/nurkiewicz/polski-w-it/pull/144[spuścizna]
 
+| lint
+| https://github.com/nurkiewicz/polski-w-it/pull/248[odkłaczać]
+
 | merge
 | https://github.com/nurkiewicz/polski-w-it/pull/178[scalać]
 
