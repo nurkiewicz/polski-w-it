@@ -660,6 +660,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | zbadać
 
+| resolve (_v_)
+| resolwować
+| rozwiązać
+
 | resource
 |
 | zasób
