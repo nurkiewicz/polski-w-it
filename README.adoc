@@ -136,6 +136,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | społeczność
 
+| complexity
+|
+| złożoność
+
 | concurrent
 | konkurentny, konkurencyjny
 | współbieżny
