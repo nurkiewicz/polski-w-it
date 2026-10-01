@@ -832,6 +832,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | próg, poziom
 
+| throttle (_v_)
+| throttlować
+| zwolnić, ograniczać
+
 | throughput
 |
 | przepustowość
