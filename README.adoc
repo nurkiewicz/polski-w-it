@@ -544,6 +544,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | rodzic
 
+| parse (_v_)
+| parsować
+| odczytać składniowo
+
 | patch
 | paczować
 | łatać, naprawiać
