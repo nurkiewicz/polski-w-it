@@ -792,6 +792,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | krok
 
+| stored procedure (_n_)
+|
+| procedura składowana
+
 | stream
 |
 | strumień
