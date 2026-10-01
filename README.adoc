@@ -352,6 +352,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | formatka
 | formularz
 
+| freeze (_v_)
+| freezować
+| zawiesić się
+
 | gradual
 |
 | stopniowo
