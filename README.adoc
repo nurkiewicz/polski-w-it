@@ -352,9 +352,9 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | formatka
 | formularz
 
-| gradual
+| gradual (_a_)
 |
-| stopniowo
+| stopniowy
 
 | handle (_v_)
 | handlować
