@@ -892,6 +892,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | użytkownik
 
+| validate (_v_)
+| walidować
+| sprawdzać poprawność
+
 | vendor
 |
 | dostawca
