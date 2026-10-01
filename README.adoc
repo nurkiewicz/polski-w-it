@@ -820,6 +820,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | templatka
 | szablon
 
+| test case (_n_)
+| testkejs
+| przypadek testowy
+
 | theme
 |
 | motyw
