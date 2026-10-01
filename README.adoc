@@ -796,6 +796,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | strumień
 
+| stub (_v_)
+| stubować
+| zastąpić uproszczeniem
+
 | support
 | saportować
 | _(1)_ obsługiwać, _(2)_ wspierać
