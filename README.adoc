@@ -240,6 +240,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | odłączyć/odłączać
 
+| dispatch (_v_)
+| dispatchować
+| rozdać
+
 | draft (_n_)
 |
 | szkic, wersja robocza
