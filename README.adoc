@@ -272,6 +272,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | błąd
 
+| escape (_v_)
+| escapować
+| maskować znaki specjalne, zapisać znaki jako sekwencje ucieczki, zamienić znaki na encje HTML
+
 | estimate (_n_)
 | estymata
 | oszacowanie, szacunek
