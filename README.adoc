@@ -260,6 +260,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | enejblować
 | włączyć
 
+| encode (_v_)
+| encodować, enkodować
+| zakodować
+
 | encryption
 | enkrypcja
 | szyfrowanie
