@@ -756,17 +756,17 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | setować
 | ustawiać
 
+| set up (_v_)
+|
+| skonfigurować, zestawić
+
 | settings
 |
 | ustawienia
 
 | setup (_n_)
 |
-| konfiguracja
-
-| setup (_v_)
-| zsetapować
-| zestawić
+| konfiguracja, ustawienie
 
 | share (_v_)
 | szerować
