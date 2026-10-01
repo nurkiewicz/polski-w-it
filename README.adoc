@@ -36,6 +36,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | zaapruwować
 | zaakceptować
 
+| array (_n_)
+|
+| tablica
+
 | asset (_n_)
 |
 | zasób
