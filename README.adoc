@@ -840,6 +840,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | zadanie
 
+| timeout (_v_)
+| timeoutować
+| przekroczyć limit czasu
+
 | toggle
 | togel
 | przełącznik
