@@ -537,8 +537,8 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | stronicowanie
 
 | parallel (_a_)
-| paralelnie
-| równolegle
+|
+| równoległy
 
 | parent
 |
