@@ -904,6 +904,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | ostrzeżenie
 
+| whitelist (_v_)
+| whitelistować
+| stale dopuszczać
+
 | window
 |
 | okno
