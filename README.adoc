@@ -664,6 +664,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | zbadać
 
+| resize (_v_)
+| resizować
+| przeskalować
+
 | resolve (_v_)
 | resolwować
 | rozwiązać
