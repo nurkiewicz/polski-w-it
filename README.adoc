@@ -796,6 +796,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 |
 | strumień
 
+| subnet (_n_)
+|
+| podsieć
+
 | support
 | saportować
 | _(1)_ obsługiwać, _(2)_ wspierać
